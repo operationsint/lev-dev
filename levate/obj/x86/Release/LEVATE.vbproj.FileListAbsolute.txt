@@ -1,0 +1,1684 @@
+D:\levate svn new\trunk\Solution\audiostation\bin\Release\levate.exe.config
+D:\levate svn new\trunk\Solution\audiostation\obj\x86\Release\Interop.Excel.dll
+D:\levate svn new\trunk\Solution\audiostation\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\bin\Release\levate.exe.config
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\Interop.Excel.dll
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\bin\Release\levate.exe
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\bin\Release\levate.pdb
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\bin\Release\levate.xml
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\bin\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\LEVATE.vbprojResolveAssemblyReference.cache
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmLocationD.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmCurrencyD.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmCustomerD.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmExpenseD.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSKUD.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSupplierD.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlLogin.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.LvtAboutBox.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmAccount.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBank.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmCurrencyRevaluation.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSalesCode.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPurchaseCode.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmExpInc.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmLocation.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmCurrency.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.Form2.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSKUPrice.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmUserAccess.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmUser.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmCurrencyR.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmCustomerR.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmExpenseR.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockLocationR.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockR.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSupplierR.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptBankList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptBankTransaction.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptCustomerList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptExpInc.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptFakturPajak.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptGLJournalTrans.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPAPAging.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPIncoming.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPInvoice.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPInvoiceSum.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPOList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPORecap.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPPayment.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPRequest.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPReturn.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptPTransaction.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsARAging.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsCOGS.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsDel.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsInvoice.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsInvoiceSum.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsMonthlyStatement.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsOrder.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsReceipt.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsReturn.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSlsTransaction.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptStkAdjustment.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptStkControl.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptStkList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptStkLocation.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptStkMovement.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptStkPrice.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptStkSet.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptStkTransaction.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptSupplierList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptWorkOrderSummary.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSYSPeriod.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSYSAccount.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.rptWorkOrder.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSYSCompany.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSYSNo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSKU.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSKUCat.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmCustomer.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSupplier.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmMAIN.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmUserLevel.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSKUPackage.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSKUPackageList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSYSPeriodList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSYSPeriodLockList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSYSPeriodYearly.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSYSSetting.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlJournal.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBankPaymentPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBankReceiptPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockAdjPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSDeliveryPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSInvoicePostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBankPayment.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBankPaymentList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBankReceipt.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBankReceiptList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPReturnPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBankAdj.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBankAdjList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPPaymentPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPInvoicePostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlAccount.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlBank.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlCustomerFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlCustomerTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlExpenseIncome.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlExportExcel.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPchCodeFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPchCodeTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPIncomingFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPIncomingTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPInvoiceFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPInvoiceTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPOFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPOTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPPaymentFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPPaymentTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPRequestFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPRequestTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPReturnFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPReturnTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSDeliveryFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSDeliveryTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSInvoiceFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSInvoiceList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSInvoiceTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUCat.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUWO.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSlsCodeFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSlsCodeTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSOrderFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSOrderTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSOWO.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSReceiptFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSReceiptTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSReturnFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSReturnTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlStkAdjustmentFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlStkAdjustmentTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlStkMovementFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlStkMovementTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSupplierFrom.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSupplierTo.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlWorkOrder.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmJournal.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmJournalList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPReceivePostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPReturnList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPReturn.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSDeliveryOutBC.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBC.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmBCList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSPaymentList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSInvoiceOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSPaymentAdvance.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSPayment.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSDeliveryOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPPaymentAdvance.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUSOOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSlsCode.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlIncome.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSKULocationList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPInvoiceOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPReceiveOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKU.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPInvoice.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPchCode.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlExpense.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPRequestApproval.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUPOOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlLocation.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlCurrency.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPRequestOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSDelivery.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSDeliveryList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPInvoiceList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUPO.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPRequestApprovalList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPRequest.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPRequestList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUAdj.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSPaymentPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSReturn.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSReturnList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSReturnPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockAdj.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockAdjList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSOOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSInvoice.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSInvoiceList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSKUSO.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlCustomer.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSO.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSOList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPOReceipt.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPPayment.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPPaymentList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlPOOut.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPReceive.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPReceiveList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.fdlSupplier.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPOList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmPO.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockCostAdj.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockCostAdjList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockMovement.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockMovementList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmStockMovementPostList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSupplierAdj.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmSupplierAdjList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmWorkOrder.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmWorkOrderList.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.Resources.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.Form1.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.frmDocViewer.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.LvtAboutBox.en.resources
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\LEVATE.vbproj.GenerateResource.Cache
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.exe
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.xml
+D:\Levate Test\lvttest 27-7-15 fix minor\audiostation\obj\x86\Release\levate.pdb
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\bin\Release\levate.exe.config
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\Interop.Excel.dll
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.exe
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.xml
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.pdb
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\bin\Release\levate.exe.manifest
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\bin\Release\levate.application
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\bin\Release\levate.exe
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\bin\Release\levate.pdb
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\bin\Release\levate.xml
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\bin\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\LEVATE.vbprojResolveAssemblyReference.cache
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmLocationD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCurrencyD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCustomerD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmExpenseD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplierD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlLogin.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.LvtAboutBox.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmAccount.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBank.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCurrencyRevaluation.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSalesCode.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPurchaseCode.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmExpInc.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmLocation.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCurrency.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.Form2.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUPrice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmUserAccess.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmUser.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCurrencyR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCustomerR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmExpenseR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockLocationR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplierR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptBankList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptBankTransaction.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptCustomerList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptExpInc.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptFakturPajak.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptGLJournalTrans.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPAPAging.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPIncoming.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPInvoice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPInvoiceSum.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPOList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPORecap.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPPayment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPRequest.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPReturn.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPTransaction.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsARAging.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsCOGS.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsDel.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsInvoice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsInvoiceSum.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsMonthlyStatement.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsOrder.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsReceipt.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsReturn.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsTransaction.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkAdjustment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkControl.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkLocation.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkMovement.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkPrice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkSet.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkTransaction.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSupplierList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptWorkOrderSummary.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSPeriod.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSAccount.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptWorkOrder.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSCompany.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSNo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKU.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUCat.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCustomer.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplier.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmMAIN.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmUserLevel.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUPackage.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUPackageList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSPeriodList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSPeriodLockList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSPeriodYearly.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSSetting.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlJournal.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankPaymentPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankReceiptPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockAdjPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSDeliveryPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSInvoicePostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankPayment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankPaymentList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankReceipt.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankReceiptList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReturnPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankAdjList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPPaymentPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPInvoicePostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlAccount.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlBank.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlCustomerFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlCustomerTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlExpenseIncome.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlExportExcel.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPchCodeFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPchCodeTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPIncomingFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPIncomingTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPInvoiceFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPInvoiceTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPOFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPOTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPPaymentFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPPaymentTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPRequestFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPRequestTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPReturnFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPReturnTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSDeliveryFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSDeliveryTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSInvoiceFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSInvoiceList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSInvoiceTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUCat.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUWO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSlsCodeFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSlsCodeTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSOrderFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSOrderTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSOWO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSReceiptFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSReceiptTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSReturnFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSReturnTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlStkAdjustmentFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlStkAdjustmentTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlStkMovementFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlStkMovementTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSupplierFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSupplierTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlWorkOrder.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmJournal.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmJournalList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReceivePostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReturnList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReturn.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSDeliveryOutBC.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBC.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBCList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSPaymentList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSInvoiceOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSPaymentAdvance.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSPayment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSDeliveryOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPPaymentAdvance.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUSOOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSlsCode.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlIncome.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKULocationList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPInvoiceOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPReceiveOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKU.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPInvoice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPchCode.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlExpense.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPRequestApproval.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUPOOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlLocation.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlCurrency.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPRequestOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSDelivery.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSDeliveryList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPInvoiceList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUPO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPRequestApprovalList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPRequest.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPRequestList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSPaymentPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSReturn.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSReturnList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSReturnPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockAdjList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSOOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSInvoice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSInvoiceList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUSO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlCustomer.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSOList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPOReceipt.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPPayment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPPaymentList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPOOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReceive.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReceiveList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSupplier.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPOList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockCostAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockCostAdjList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockMovement.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockMovementList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockMovementPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplierAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplierAdjList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmWorkOrder.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmWorkOrderList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.Resources.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.Form1.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmDocViewer.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.LvtAboutBox.en.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\LEVATE.vbproj.GenerateResource.Cache
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.exe.manifest
+D:\Levate Test\lvttest 25-8-15 ver 3.44 pembulatan kebawah\audiostation\obj\x86\Release\levate.application
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\bin\Release\levate.exe.config
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\Interop.Excel.dll
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.exe
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.xml
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.pdb
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\bin\Release\levate.exe.manifest
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\bin\Release\levate.application
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\bin\Release\levate.exe
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\bin\Release\levate.pdb
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\bin\Release\levate.xml
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\bin\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\LEVATE.vbprojResolveAssemblyReference.cache
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmLocationD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCurrencyD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCustomerD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmExpenseD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplierD.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlLogin.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.LvtAboutBox.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmAccount.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBank.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCurrencyRevaluation.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSalesCode.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPurchaseCode.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmExpInc.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmLocation.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCurrency.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.Form2.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUPrice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmUserAccess.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmUser.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCurrencyR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCustomerR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmExpenseR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockLocationR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplierR.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptBankList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptBankTransaction.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptCustomerList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptExpInc.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptFakturPajak.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptGLJournalTrans.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPAPAging.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPIncoming.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPInvoice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPInvoiceSum.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPOList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPORecap.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPPayment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPRequest.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPReturn.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptPTransaction.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsARAging.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsCOGS.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsDel.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsInvoice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsInvoiceSum.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsMonthlyStatement.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsOrder.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsReceipt.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsReturn.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSlsTransaction.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkAdjustment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkControl.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkLocation.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkMovement.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkPrice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkSet.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptStkTransaction.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptSupplierList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptWorkOrderSummary.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSPeriod.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSAccount.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.rptWorkOrder.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSCompany.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSNo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKU.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUCat.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmCustomer.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplier.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmMAIN.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmUserLevel.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUPackage.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKUPackageList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSPeriodList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSPeriodLockList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSPeriodYearly.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSYSSetting.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlJournal.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankPaymentPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankReceiptPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockAdjPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSDeliveryPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSInvoicePostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankPayment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankPaymentList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankReceipt.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankReceiptList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReturnPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBankAdjList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPPaymentPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPInvoicePostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlAccount.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlBank.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlCustomerFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlCustomerTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlExpenseIncome.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlExportExcel.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPchCodeFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPchCodeTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPIncomingFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPIncomingTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPInvoiceFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPInvoiceTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPOFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPOTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPPaymentFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPPaymentTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPRequestFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPRequestTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPReturnFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPReturnTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSDeliveryFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSDeliveryTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSInvoiceFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSInvoiceList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSInvoiceTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUCat.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUWO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSlsCodeFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSlsCodeTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSOrderFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSOrderTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSOWO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSReceiptFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSReceiptTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSReturnFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSReturnTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlStkAdjustmentFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlStkAdjustmentTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlStkMovementFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlStkMovementTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSupplierFrom.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSupplierTo.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlWorkOrder.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmJournal.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmJournalList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReceivePostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReturnList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReturn.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSDeliveryOutBC.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBC.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmBCList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSPaymentList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSInvoiceOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSPaymentAdvance.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSPayment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSDeliveryOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPPaymentAdvance.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUSOOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSlsCode.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlIncome.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSKULocationList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPInvoiceOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPReceiveOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKU.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPInvoice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPchCode.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlExpense.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPRequestApproval.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUPOOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlLocation.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlCurrency.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPRequestOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSDelivery.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSDeliveryList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPInvoiceList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUPO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPRequestApprovalList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPRequest.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPRequestList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSPaymentPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSReturn.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSReturnList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSReturnPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockAdjList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSOOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSInvoice.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSInvoiceList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSKUSO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlCustomer.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSOList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPOReceipt.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPPayment.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPPaymentList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlPOOut.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReceive.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPReceiveList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.fdlSupplier.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPOList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmPO.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockCostAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockCostAdjList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockMovement.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockMovementList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmStockMovementPostList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplierAdj.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmSupplierAdjList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmWorkOrder.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmWorkOrderList.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.Resources.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.Form1.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.frmDocViewer.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.LvtAboutBox.en.resources
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\LEVATE.vbproj.GenerateResource.Cache
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.exe.manifest
+D:\Levate Test\lvttest 25-8-15 ver 3.45 pembulatan kebawah\audiostation\obj\x86\Release\levate.application
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\bin\Release\levate.exe.config
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\Interop.Excel.dll
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.exe
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.xml
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.pdb
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\bin\Release\levate.exe.manifest
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\bin\Release\levate.application
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\bin\Release\levate.exe
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\bin\Release\levate.pdb
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\bin\Release\levate.xml
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\bin\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\LEVATE.vbprojResolveAssemblyReference.cache
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmLocationD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmCurrencyD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmCustomerD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmExpenseD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSKUD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSupplierD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlLogin.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.LvtAboutBox.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmAccount.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBank.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmCost.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmCurrencyRevaluation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmFixedAsset.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmFixedAssetCat.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSalesCode.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPurchaseCode.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmExpInc.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmLocation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmCurrency.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.Form2.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSKUPrice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmUserAccess.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmUser.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmCurrencyR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmCustomerR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmExpenseR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockLocationR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSupplierR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptBankList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptBankTransaction.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptCustomerList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptExpInc.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptFakturPajak.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptFixedAssetDepreciation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptFixedAssetList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptGLJournalTrans.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPAPAging.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPIncoming.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPInvoice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPInvoiceSum.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPOList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPORecap.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPPayment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPRequest.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPReturn.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptPTransaction.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsARAging.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsCOGS.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsDel.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsInvoice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsInvoiceSum.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsMonthlyStatement.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsOrder.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsReceipt.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsReturn.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSlsTransaction.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptStkAdjustment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptStkControl.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptStkList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptStkLocation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptStkMovement.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptStkPrice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptStkSet.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptStkTransaction.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptSupplierList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptWorkOrderSummary.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmLicense.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSPeriod.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSAccount.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.rptWorkOrder.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSCompany.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSNo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSKU.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSKUCat.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmCustomer.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSupplier.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmMAIN.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmUserLevel.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSKUPackage.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSKUPackageList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSPeriodList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSPeriodLockList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSPeriodYearly.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSRegister.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSYSSetting.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlCost.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlFixedAsset.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlFixedAssetCat.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlFixedAssetDispose.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlFixedAssetGenJournal.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlJournal.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlTenciaAccount.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBankPaymentPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBankReceiptPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmFixedAssetGenJournal.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockAdjPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSDeliveryPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSInvoicePostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBankPayment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBankPaymentList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBankReceipt.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBankReceiptList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPReturnPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBankAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBankAdjList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPPaymentPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPInvoicePostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlAccount.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlBank.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlCustomerFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlCustomerTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlExpenseIncome.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlExportExcel.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPchCodeFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPchCodeTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPIncomingFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPIncomingTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPInvoiceFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPInvoiceTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPOFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPOTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPPaymentFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPPaymentTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPRequestFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPRequestTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPReturnFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPReturnTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSDeliveryFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSDeliveryTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSInvoiceFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSInvoiceList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSInvoiceTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUCat.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUWO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSlsCodeFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSlsCodeTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSOrderFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSOrderTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSOWO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSReceiptFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSReceiptTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSReturnFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSReturnTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlStkAdjustmentFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlStkAdjustmentTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlStkMovementFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlStkMovementTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSupplierFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSupplierTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlWorkOrder.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmJournal.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmJournalList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPReceivePostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPReturnList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPReturn.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSDeliveryOutBC.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBC.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmBCList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSPaymentList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSInvoiceOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSPaymentAdvance.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSPayment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSDeliveryOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPPaymentAdvance.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUSOOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSlsCode.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlIncome.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSKULocationList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPInvoiceOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPReceiveOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKU.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPInvoice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPchCode.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlExpense.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPRequestApproval.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUPOOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlLocation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlCurrency.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPRequestOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSDelivery.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSDeliveryList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPInvoiceList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUPO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPRequestApprovalList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPRequest.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPRequestList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSPaymentPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSReturn.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSReturnList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSReturnPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockAdjList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSOOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSInvoice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSInvoiceList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSKUSO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlCustomer.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSOList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPOReceipt.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPPayment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPPaymentList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlPOOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPReceive.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPReceiveList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.fdlSupplier.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPOList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmPO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockCostAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockCostAdjList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockMovement.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockMovementList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmStockMovementPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSupplierAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmSupplierAdjList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmWorkOrder.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmWorkOrderList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.Resources.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.Form1.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.frmDocViewer.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.LvtAboutBox.en.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\LEVATE.vbproj.GenerateResource.Cache
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.exe.manifest
+D:\Levate Test\lvttest 16-10-15 ver 3.52 license file with date\audiostation\obj\x86\Release\levate.application
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\bin\Release\levate.exe.config
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\Interop.Excel.dll
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.exe
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.xml
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.pdb
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\bin\Release\levate.exe.manifest
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\bin\Release\levate.application
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\bin\Release\levate.exe
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\bin\Release\levate.pdb
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\bin\Release\levate.xml
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\bin\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\LEVATE.vbprojResolveAssemblyReference.cache
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmLocationD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmCurrencyD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmCustomerD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmExpenseD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSKUD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSupplierD.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlLogin.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.LvtAboutBox.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmAccount.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBank.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmCost.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmCurrencyRevaluation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmFixedAsset.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmFixedAssetCat.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSalesCode.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPurchaseCode.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmExpInc.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmLocation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmCurrency.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.Form2.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSKUPrice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmUserAccess.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmUser.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmCurrencyR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmCustomerR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmExpenseR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockLocationR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSupplierR.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptBankList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptBankTransaction.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptCustomerList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptExpInc.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptFakturPajak.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptFixedAssetDepreciation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptFixedAssetList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptGLJournalTrans.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPAPAging.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPIncoming.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPInvoice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPInvoiceSum.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPOList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPORecap.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPPayment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPRequest.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPReturn.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptPTransaction.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsARAging.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsCOGS.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsDel.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsInvoice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsInvoiceSum.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsMonthlyStatement.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsOrder.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsReceipt.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsReturn.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSlsTransaction.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptStkAdjustment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptStkControl.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptStkList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptStkLocation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptStkMovement.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptStkPrice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptStkSet.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptStkTransaction.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptSupplierList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptWorkOrderSummary.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmLicense.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSPeriod.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSAccount.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.rptWorkOrder.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSCompany.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSNo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSKU.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSKUCat.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmCustomer.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSupplier.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmMAIN.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmUserLevel.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSKUPackage.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSKUPackageList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSPeriodList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSPeriodLockList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSPeriodYearly.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSRegister.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSYSSetting.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlCost.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlFixedAsset.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlFixedAssetCat.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlFixedAssetDispose.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlFixedAssetGenJournal.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlJournal.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlTenciaAccount.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBankPaymentPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBankReceiptPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmFixedAssetGenJournal.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockAdjPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSDeliveryPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSInvoicePostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBankPayment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBankPaymentList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBankReceipt.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBankReceiptList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPReturnPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBankAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBankAdjList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPPaymentPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPInvoicePostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlAccount.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlBank.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlCustomerFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlCustomerTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlExpenseIncome.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlExportExcel.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPchCodeFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPchCodeTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPIncomingFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPIncomingTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPInvoiceFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPInvoiceTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPOFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPOTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPPaymentFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPPaymentTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPRequestFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPRequestTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPReturnFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPReturnTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSDeliveryFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSDeliveryTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSInvoiceFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSInvoiceList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSInvoiceTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUCat.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUWO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSlsCodeFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSlsCodeTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSOrderFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSOrderTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSOWO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSReceiptFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSReceiptTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSReturnFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSReturnTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlStkAdjustmentFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlStkAdjustmentTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlStkMovementFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlStkMovementTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSupplierFrom.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSupplierTo.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlWorkOrder.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmJournal.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmJournalList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPReceivePostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPReturnList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPReturn.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSDeliveryOutBC.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBC.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmBCList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSPaymentList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSInvoiceOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSPaymentAdvance.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSPayment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSDeliveryOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPPaymentAdvance.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUSOOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSlsCode.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlIncome.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSKULocationList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPInvoiceOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPReceiveOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKU.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPInvoice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPchCode.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlExpense.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPRequestApproval.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUPOOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlLocation.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlCurrency.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPRequestOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSDelivery.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSDeliveryList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPInvoiceList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUPO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPRequestApprovalList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPRequest.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPRequestList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSPaymentPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSReturn.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSReturnList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSReturnPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockAdjList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSOOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSInvoice.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSInvoiceList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSKUSO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlCustomer.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSOList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPOReceipt.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPPayment.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPPaymentList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlPOOut.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPReceive.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPReceiveList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.fdlSupplier.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPOList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmPO.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockCostAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockCostAdjList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockMovement.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockMovementList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmStockMovementPostList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSupplierAdj.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmSupplierAdjList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmWorkOrder.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmWorkOrderList.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.Resources.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.Form1.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.frmDocViewer.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.LvtAboutBox.en.resources
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\LEVATE.vbproj.GenerateResource.Cache
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.exe.manifest
+D:\Levate Test\lvttest 16-10-15 ver 3.53 license file with date\audiostation\obj\x86\Release\levate.application
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\bin\Release\levate.exe.config
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\Interop.Excel.dll
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.exe
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.xml
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.pdb
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\bin\Release\levate.exe.manifest
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\bin\Release\levate.application
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\bin\Release\levate.exe
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\bin\Release\levate.pdb
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\bin\Release\levate.xml
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\bin\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\LEVATE.vbprojResolveAssemblyReference.cache
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmLocationD.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmCurrencyD.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmCustomerD.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmExpenseD.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSKUD.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSupplierD.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlLogin.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.LvtAboutBox.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmAccount.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBank.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmCost.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmCurrencyRevaluation.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmFixedAsset.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmFixedAssetCat.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSalesCode.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPurchaseCode.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmExpInc.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmLocation.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmCurrency.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.Form2.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSKUPrice.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmUserAccess.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmUser.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmCurrencyR.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmCustomerR.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmExpenseR.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockLocationR.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockR.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSupplierR.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptBankList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptBankTransaction.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptCustomerList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptExpInc.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptFakturPajak.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptFixedAssetDepreciation.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptFixedAssetGenJournal.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptFixedAssetList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptGLJournalTrans.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPAPAging.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPIncoming.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPInvoice.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPInvoiceSum.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPOList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPORecap.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPPayment.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPRequest.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPReturn.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptPTransaction.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsARAging.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsCOGS.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsDel.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsInvoice.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsInvoiceSum.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsMonthlyStatement.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsOrder.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsReceipt.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsReturn.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSlsTransaction.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptStkAdjustment.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptStkControl.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptStkList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptStkLocation.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptStkMovement.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptStkPrice.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptStkSet.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptStkTransaction.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptSupplierList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptWorkOrderSummary.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmLicense.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSPeriod.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSAccount.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.rptWorkOrder.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSCompany.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSNo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSKU.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSKUCat.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmCustomer.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSupplier.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmMAIN.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmUserLevel.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSKUPackage.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSKUPackageList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSPeriodList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSPeriodLockList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSPeriodYearly.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSRegister.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSYSSetting.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlCost.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlFixedAsset.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlFixedAssetCat.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlFixedAssetDispose.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlFixedAssetGenJournal.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlJournal.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlTenciaAccount.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankAdjPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankPaymentPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankReceiptPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmFixedAssetGenJournal.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockAdjPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSDeliveryPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSInvoicePostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankPayment.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankPaymentList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankReceipt.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankReceiptList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPReturnPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankAdj.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBankAdjList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPPaymentPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPInvoicePostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlAccount.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlBank.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlCustomerFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlCustomerTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlExpenseIncome.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlExportExcel.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPchCodeFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPchCodeTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPIncomingFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPIncomingTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPInvoiceFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPInvoiceTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPOFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPOTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPPaymentFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPPaymentTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPRequestFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPRequestTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPReturnFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPReturnTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSDeliveryFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSDeliveryTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSInvoiceFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSInvoiceList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSInvoiceTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUCat.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUWO.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSlsCodeFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSlsCodeTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSOrderFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSOrderTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSOWO.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSReceiptFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSReceiptTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSReturnFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSReturnTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlStkAdjustmentFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlStkAdjustmentTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlStkMovementFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlStkMovementTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSupplierFrom.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSupplierTo.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlWorkOrder.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmJournal.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmJournalList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPReceivePostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPReturnList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPReturn.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSDeliveryOutBC.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBC.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmBCList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSPaymentList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSInvoiceOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSPaymentAdvance.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSPayment.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSDeliveryOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPPaymentAdvance.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUSOOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSlsCode.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlIncome.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSKULocationList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPInvoiceOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPReceiveOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKU.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPInvoice.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPchCode.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlExpense.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPRequestApproval.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUPOOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlLocation.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlCurrency.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPRequestOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSDelivery.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSDeliveryList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPInvoiceList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUPO.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPRequestApprovalList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPRequest.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPRequestList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUAdj.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSPaymentPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSReturn.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSReturnList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSReturnPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockAdj.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockAdjList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSOOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSInvoice.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSInvoiceList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSKUSO.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlCustomer.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSO.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSOList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPOReceipt.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPPayment.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPPaymentList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlPOOut.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPReceive.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPReceiveList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.fdlSupplier.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPOList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmPO.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockCostAdj.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockCostAdjList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockMovement.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockMovementList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmStockMovementPostList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSupplierAdj.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmSupplierAdjList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmWorkOrder.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmWorkOrderList.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.Resources.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.Form1.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.frmDocViewer.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.LvtAboutBox.en.resources
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\LEVATE.vbproj.GenerateResource.Cache
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\en\levate.resources.dll
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.exe.manifest
+D:\Levate Test\lvttest 19-10-15 ver 3.54 fixed asset generate journal\audiostation\obj\x86\Release\levate.application
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmLocationD.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmCurrencyD.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmCustomerD.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmExpenseD.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSKUD.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSupplierD.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlLogin.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.LvtAboutBox.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmAccount.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBank.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmCost.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmCurrencyRevaluation.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmFixedAsset.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmFixedAssetCat.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSalesCode.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPurchaseCode.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmExpInc.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmLocation.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmCurrency.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.Form2.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSKUPrice.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmUserAccess.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmUser.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptCustomerControl.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptBalanceSheet.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptGLJournalTransDetail.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsStockSales.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSupplierControl.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptTrialBalanceReport.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPnLReport.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptGeneralLedgerReport.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmCurrencyR.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmCustomerR.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmExpenseR.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockLocationR.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockR.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSupplierR.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptBankList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptBankTransaction.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptCustomerList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptExpInc.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptFakturPajak.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptFixedAssetDepreciation.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptFixedAssetGenJournal.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptFixedAssetList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptGLJournalTrans.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPAPAging.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPIncoming.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPInvoice.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPInvoiceSum.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPOList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPORecap.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPPayment.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPRequest.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPReturn.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptPTransaction.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsARAging.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsCOGS.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsDel.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsInvoice.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsInvoiceSum.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsMonthlyStatement.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsOrder.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsReceipt.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsReturn.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsTransaction.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptStkAdjustment.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptStkControl.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptStkList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptStkLocation.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptStkMovement.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptStkPrice.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptStkSet.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptStkTransaction.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSupplierList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptWorkOrderControl.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptWorkOrderCostDetail.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptWorkOrderSummary.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmLicense.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSysCopyPlay.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSPeriod.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSAccount.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptWorkOrder.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSCompany.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSNo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSKU.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSKUCat.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmCustomer.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSupplier.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmMAIN.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmUserLevel.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSKUPackage.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSKUPackageList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSPeriodList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSPeriodLockList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSPeriodYearly.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSRegister.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSYSSetting.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlAccSubCat.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlAccCat.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPeriod.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlCost.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlFixedAsset.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlFixedAssetCat.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlFixedAssetDispose.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlFixedAssetGenJournal.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlJournal.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlTenciaAccount.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankAdjPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankPaymentPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankReceiptPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmFixedAssetGenJournal.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockAdjPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSDeliveryPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSInvoicePostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankPayment.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankPaymentList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankReceipt.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankReceiptList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPReturnPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankAdj.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBankAdjList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPPaymentPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPInvoicePostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlAccount.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlBank.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlCustomerFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlCustomerTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlExpenseIncome.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlExportExcel.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPchCodeFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPchCodeTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPIncomingFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPIncomingTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPInvoiceFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPInvoiceTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPOFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPOTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPPaymentFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPPaymentTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPRequestFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPRequestTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPReturnFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPReturnTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSDeliveryFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSDeliveryTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSInvoiceFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSInvoiceList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSInvoiceTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUCat.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUWO.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSlsCodeFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSlsCodeTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSOrderFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSOrderTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSOWO.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSReceiptFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSReceiptTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSReturnFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSReturnTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlStkAdjustmentFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlStkAdjustmentTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlStkMovementFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlStkMovementTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSupplierFrom.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSupplierTo.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlWorkOrder.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmJournal.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmJournalList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPReceivePostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPReturnList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPReturn.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSDeliveryOutBC.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBC.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmBCList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSPaymentList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSInvoiceOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSPaymentAdvance.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSPayment.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSDeliveryOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPPaymentAdvance.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUSOOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSlsCode.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlIncome.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSKULocationList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPInvoiceOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPReceiveOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKU.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPInvoice.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPchCode.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlExpense.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPRequestApproval.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUPOOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlLocation.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlCurrency.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPRequestOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSDelivery.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSDeliveryList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPInvoiceList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUPO.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPRequestApprovalList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPRequest.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPRequestList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUAdj.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSPaymentPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSReturn.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSReturnList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSReturnPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockAdj.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockAdjList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSOOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSInvoice.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSInvoiceList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSKUSO.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlCustomer.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSO.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSOList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPOReceipt.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPPayment.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPPaymentList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlPOOut.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPReceive.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPReceiveList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlSupplier.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPOList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmPO.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockCostAdj.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockCostAdjList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockMovement.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockMovementList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmStockMovementPostList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSupplierAdj.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmSupplierAdjList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmWorkOrder.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmWorkOrderList.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.Resources.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.Form1.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmDocViewer.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.LvtAboutBox.en.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\LEVATE.vbproj.GenerateResource.Cache
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.exe
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.xml
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.pdb
+E:\Project\Integralindo\dikman\3.60\levate\bin\Release\levate.exe.config
+E:\Project\Integralindo\dikman\3.60\levate\bin\Release\levate.exe.manifest
+E:\Project\Integralindo\dikman\3.60\levate\bin\Release\levate.application
+E:\Project\Integralindo\dikman\3.60\levate\bin\Release\levate.exe
+E:\Project\Integralindo\dikman\3.60\levate\bin\Release\levate.pdb
+E:\Project\Integralindo\dikman\3.60\levate\bin\Release\levate.xml
+E:\Project\Integralindo\dikman\3.60\levate\bin\Release\en\levate.resources.dll
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\en\levate.resources.dll
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.exe.manifest
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.application
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlWOConfirmTrans.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptBankExpense.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptSlsCustomerBalanceReport.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptBankDetail.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmLabour.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.frmProcessCode.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlLabour.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlProcess.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.fdlWOConfirmIn.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptWorkOrderProcessDetail.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\levate.rptWorkOrderProcessLabour.resources
+E:\Project\Integralindo\dikman\3.60\levate\obj\x86\Release\LEVATE.vbprojResolveAssemblyReference.cache
+G:\Integralindo\Levate\Source.Code.20170228\3.60\levate\bin\Release\levate.exe.config
+G:\Integralindo\Levate\Source.Code.20170228\3.60\levate\obj\x86\Release\LEVATE.vbproj.ResolveComReference.cache
+G:\Integralindo\Levate\Source.Code.20170228\3.60\levate\obj\x86\Release\levate.exe
+G:\Integralindo\Levate\Source.Code.20170228\3.60\levate\obj\x86\Release\levate.xml
+G:\Integralindo\Levate\Source.Code.20170228\3.60\levate\obj\x86\Release\levate.pdb
