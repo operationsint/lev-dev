@@ -124,7 +124,7 @@ Partial Class fdlLogin
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(92, 11)
         Me.Label3.TabIndex = 8
-        Me.Label3.Text = "App 3.70-2017.02.28"
+        Me.Label3.Text = "App 3.71-2017.03.21"
         '
         'Label4
         '

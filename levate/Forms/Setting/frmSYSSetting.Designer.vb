@@ -28,7 +28,6 @@ Partial Class frmSYSSetting
         Me.btnSave = New System.Windows.Forms.Button()
         Me.tabMain = New System.Windows.Forms.TabControl()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
-        Me.tabSystem = New System.Windows.Forms.TabPage()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.cbDecimal = New System.Windows.Forms.ComboBox()
         Me.Label2 = New System.Windows.Forms.Label()
@@ -48,17 +47,20 @@ Partial Class frmSYSSetting
         Me.cmbFirstFiscalMonth = New System.Windows.Forms.ComboBox()
         Me.cbAllowBankMinus = New System.Windows.Forms.CheckBox()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.cbTruncatePurchaseVAT = New System.Windows.Forms.CheckBox()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.cbTruncateSalesVAT = New System.Windows.Forms.CheckBox()
-        Me.Label11 = New System.Windows.Forms.Label()
+        Me.tabSystem = New System.Windows.Forms.TabPage()
         Me.cbConfirmOutCheckRequiredDate = New System.Windows.Forms.CheckBox()
         Me.Label13 = New System.Windows.Forms.Label()
+        Me.cbTruncateSalesVAT = New System.Windows.Forms.CheckBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.cbTruncatePurchaseVAT = New System.Windows.Forms.CheckBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.cbDate = New System.Windows.Forms.CheckBox()
+        Me.Label14 = New System.Windows.Forms.Label()
         Me.tabMain.SuspendLayout()
         Me.TabPage1.SuspendLayout()
-        Me.tabSystem.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
+        Me.tabSystem.SuspendLayout()
         Me.SuspendLayout()
         '
         'Label8
@@ -74,7 +76,7 @@ Partial Class frmSYSSetting
         'btnClose
         '
         Me.btnClose.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.btnClose.Location = New System.Drawing.Point(614, 378)
+        Me.btnClose.Location = New System.Drawing.Point(614, 392)
         Me.btnClose.Name = "btnClose"
         Me.btnClose.Size = New System.Drawing.Size(75, 23)
         Me.btnClose.TabIndex = 6
@@ -84,7 +86,7 @@ Partial Class frmSYSSetting
         'btnSave
         '
         Me.btnSave.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.btnSave.Location = New System.Drawing.Point(533, 378)
+        Me.btnSave.Location = New System.Drawing.Point(533, 392)
         Me.btnSave.Name = "btnSave"
         Me.btnSave.Size = New System.Drawing.Size(75, 23)
         Me.btnSave.TabIndex = 5
@@ -98,7 +100,7 @@ Partial Class frmSYSSetting
         Me.tabMain.Location = New System.Drawing.Point(12, 31)
         Me.tabMain.Name = "tabMain"
         Me.tabMain.SelectedIndex = 0
-        Me.tabMain.Size = New System.Drawing.Size(684, 333)
+        Me.tabMain.Size = New System.Drawing.Size(684, 350)
         Me.tabMain.TabIndex = 178
         '
         'TabPage1
@@ -109,35 +111,21 @@ Partial Class frmSYSSetting
         Me.TabPage1.Location = New System.Drawing.Point(4, 22)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage1.Size = New System.Drawing.Size(676, 307)
+        Me.TabPage1.Size = New System.Drawing.Size(676, 324)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "General and Sales"
         '
-        'tabSystem
-        '
-        Me.tabSystem.BackColor = System.Drawing.SystemColors.Control
-        Me.tabSystem.Controls.Add(Me.cbConfirmOutCheckRequiredDate)
-        Me.tabSystem.Controls.Add(Me.Label13)
-        Me.tabSystem.Controls.Add(Me.cbTruncateSalesVAT)
-        Me.tabSystem.Controls.Add(Me.Label11)
-        Me.tabSystem.Controls.Add(Me.cbTruncatePurchaseVAT)
-        Me.tabSystem.Controls.Add(Me.Label10)
-        Me.tabSystem.Location = New System.Drawing.Point(4, 22)
-        Me.tabSystem.Name = "tabSystem"
-        Me.tabSystem.Padding = New System.Windows.Forms.Padding(3)
-        Me.tabSystem.Size = New System.Drawing.Size(676, 307)
-        Me.tabSystem.TabIndex = 1
-        Me.tabSystem.Text = "System"
-        '
         'GroupBox2
         '
+        Me.GroupBox2.Controls.Add(Me.cbDate)
         Me.GroupBox2.Controls.Add(Me.cbDecimal)
         Me.GroupBox2.Controls.Add(Me.Label2)
         Me.GroupBox2.Controls.Add(Me.Label4)
         Me.GroupBox2.Controls.Add(Me.cmbRound)
+        Me.GroupBox2.Controls.Add(Me.Label14)
         Me.GroupBox2.Location = New System.Drawing.Point(6, 199)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(660, 100)
+        Me.GroupBox2.Size = New System.Drawing.Size(660, 119)
         Me.GroupBox2.TabIndex = 179
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Sales"
@@ -146,7 +134,7 @@ Partial Class frmSYSSetting
         '
         Me.cbDecimal.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cbDecimal.FormattingEnabled = True
-        Me.cbDecimal.Location = New System.Drawing.Point(167, 29)
+        Me.cbDecimal.Location = New System.Drawing.Point(183, 29)
         Me.cbDecimal.Name = "cbDecimal"
         Me.cbDecimal.Size = New System.Drawing.Size(55, 21)
         Me.cbDecimal.TabIndex = 1
@@ -175,7 +163,7 @@ Partial Class frmSYSSetting
         '
         Me.cmbRound.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmbRound.FormattingEnabled = True
-        Me.cmbRound.Location = New System.Drawing.Point(167, 56)
+        Me.cmbRound.Location = New System.Drawing.Point(183, 56)
         Me.cmbRound.Name = "cmbRound"
         Me.cmbRound.Size = New System.Drawing.Size(110, 21)
         Me.cmbRound.TabIndex = 174
@@ -205,7 +193,7 @@ Partial Class frmSYSSetting
         'cbPlay
         '
         Me.cbPlay.AutoSize = True
-        Me.cbPlay.Location = New System.Drawing.Point(164, 162)
+        Me.cbPlay.Location = New System.Drawing.Point(180, 162)
         Me.cbPlay.Name = "cbPlay"
         Me.cbPlay.Size = New System.Drawing.Size(15, 14)
         Me.cbPlay.TabIndex = 178
@@ -225,7 +213,7 @@ Partial Class frmSYSSetting
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(391, 132)
+        Me.Label6.Location = New System.Drawing.Point(407, 132)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(180, 13)
         Me.Label6.TabIndex = 177
@@ -233,7 +221,7 @@ Partial Class frmSYSSetting
         '
         'txtStockImagePath
         '
-        Me.txtStockImagePath.Location = New System.Drawing.Point(164, 129)
+        Me.txtStockImagePath.Location = New System.Drawing.Point(180, 129)
         Me.txtStockImagePath.MaxLength = 150
         Me.txtStockImagePath.Name = "txtStockImagePath"
         Me.txtStockImagePath.Size = New System.Drawing.Size(221, 20)
@@ -262,7 +250,7 @@ Partial Class frmSYSSetting
         'ntbTaxPercent
         '
         Me.ntbTaxPercent.AllowSpace = False
-        Me.ntbTaxPercent.Location = New System.Drawing.Point(164, 24)
+        Me.ntbTaxPercent.Location = New System.Drawing.Point(180, 24)
         Me.ntbTaxPercent.MaxLength = 3
         Me.ntbTaxPercent.Name = "ntbTaxPercent"
         Me.ntbTaxPercent.Size = New System.Drawing.Size(55, 20)
@@ -272,7 +260,7 @@ Partial Class frmSYSSetting
         'chbStockMinusSetting
         '
         Me.chbStockMinusSetting.AutoSize = True
-        Me.chbStockMinusSetting.Location = New System.Drawing.Point(164, 50)
+        Me.chbStockMinusSetting.Location = New System.Drawing.Point(180, 50)
         Me.chbStockMinusSetting.Name = "chbStockMinusSetting"
         Me.chbStockMinusSetting.Size = New System.Drawing.Size(15, 14)
         Me.chbStockMinusSetting.TabIndex = 2
@@ -302,7 +290,7 @@ Partial Class frmSYSSetting
         '
         Me.cmbFirstFiscalMonth.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmbFirstFiscalMonth.FormattingEnabled = True
-        Me.cmbFirstFiscalMonth.Location = New System.Drawing.Point(164, 102)
+        Me.cmbFirstFiscalMonth.Location = New System.Drawing.Point(180, 102)
         Me.cmbFirstFiscalMonth.Name = "cmbFirstFiscalMonth"
         Me.cmbFirstFiscalMonth.Size = New System.Drawing.Size(110, 21)
         Me.cmbFirstFiscalMonth.TabIndex = 4
@@ -310,7 +298,7 @@ Partial Class frmSYSSetting
         'cbAllowBankMinus
         '
         Me.cbAllowBankMinus.AutoSize = True
-        Me.cbAllowBankMinus.Location = New System.Drawing.Point(164, 77)
+        Me.cbAllowBankMinus.Location = New System.Drawing.Point(180, 77)
         Me.cbAllowBankMinus.Name = "cbAllowBankMinus"
         Me.cbAllowBankMinus.Size = New System.Drawing.Size(15, 14)
         Me.cbAllowBankMinus.TabIndex = 3
@@ -326,43 +314,21 @@ Partial Class frmSYSSetting
         Me.Label1.TabIndex = 168
         Me.Label1.Text = "Allow Minus Bank Balance"
         '
-        'cbTruncatePurchaseVAT
+        'tabSystem
         '
-        Me.cbTruncatePurchaseVAT.AutoSize = True
-        Me.cbTruncatePurchaseVAT.Location = New System.Drawing.Point(268, 23)
-        Me.cbTruncatePurchaseVAT.Name = "cbTruncatePurchaseVAT"
-        Me.cbTruncatePurchaseVAT.Size = New System.Drawing.Size(15, 14)
-        Me.cbTruncatePurchaseVAT.TabIndex = 182
-        Me.cbTruncatePurchaseVAT.UseVisualStyleBackColor = True
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(17, 23)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(234, 13)
-        Me.Label10.TabIndex = 183
-        Me.Label10.Text = "Truncate decimal Purchase Invoice amount VAT"
-        '
-        'cbTruncateSalesVAT
-        '
-        Me.cbTruncateSalesVAT.AutoSize = True
-        Me.cbTruncateSalesVAT.Location = New System.Drawing.Point(268, 47)
-        Me.cbTruncateSalesVAT.Name = "cbTruncateSalesVAT"
-        Me.cbTruncateSalesVAT.Size = New System.Drawing.Size(15, 14)
-        Me.cbTruncateSalesVAT.TabIndex = 184
-        Me.cbTruncateSalesVAT.UseVisualStyleBackColor = True
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.Location = New System.Drawing.Point(17, 47)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(215, 13)
-        Me.Label11.TabIndex = 185
-        Me.Label11.Text = "Truncate decimal Sales Invoice amount VAT"
+        Me.tabSystem.BackColor = System.Drawing.SystemColors.Control
+        Me.tabSystem.Controls.Add(Me.cbConfirmOutCheckRequiredDate)
+        Me.tabSystem.Controls.Add(Me.Label13)
+        Me.tabSystem.Controls.Add(Me.cbTruncateSalesVAT)
+        Me.tabSystem.Controls.Add(Me.Label11)
+        Me.tabSystem.Controls.Add(Me.cbTruncatePurchaseVAT)
+        Me.tabSystem.Controls.Add(Me.Label10)
+        Me.tabSystem.Location = New System.Drawing.Point(4, 22)
+        Me.tabSystem.Name = "tabSystem"
+        Me.tabSystem.Padding = New System.Windows.Forms.Padding(3)
+        Me.tabSystem.Size = New System.Drawing.Size(676, 324)
+        Me.tabSystem.TabIndex = 1
+        Me.tabSystem.Text = "System"
         '
         'cbConfirmOutCheckRequiredDate
         '
@@ -383,11 +349,68 @@ Partial Class frmSYSSetting
         Me.Label13.TabIndex = 187
         Me.Label13.Text = "Confirm Out Date must <= than Required Date"
         '
+        'cbTruncateSalesVAT
+        '
+        Me.cbTruncateSalesVAT.AutoSize = True
+        Me.cbTruncateSalesVAT.Location = New System.Drawing.Point(268, 47)
+        Me.cbTruncateSalesVAT.Name = "cbTruncateSalesVAT"
+        Me.cbTruncateSalesVAT.Size = New System.Drawing.Size(15, 14)
+        Me.cbTruncateSalesVAT.TabIndex = 184
+        Me.cbTruncateSalesVAT.UseVisualStyleBackColor = True
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label11.Location = New System.Drawing.Point(17, 47)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(215, 13)
+        Me.Label11.TabIndex = 185
+        Me.Label11.Text = "Truncate decimal Sales Invoice amount VAT"
+        '
+        'cbTruncatePurchaseVAT
+        '
+        Me.cbTruncatePurchaseVAT.AutoSize = True
+        Me.cbTruncatePurchaseVAT.Location = New System.Drawing.Point(268, 23)
+        Me.cbTruncatePurchaseVAT.Name = "cbTruncatePurchaseVAT"
+        Me.cbTruncatePurchaseVAT.Size = New System.Drawing.Size(15, 14)
+        Me.cbTruncatePurchaseVAT.TabIndex = 182
+        Me.cbTruncatePurchaseVAT.UseVisualStyleBackColor = True
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label10.Location = New System.Drawing.Point(17, 23)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(234, 13)
+        Me.Label10.TabIndex = 183
+        Me.Label10.Text = "Truncate decimal Purchase Invoice amount VAT"
+        '
+        'cbDate
+        '
+        Me.cbDate.AutoSize = True
+        Me.cbDate.Location = New System.Drawing.Point(180, 89)
+        Me.cbDate.Name = "cbDate"
+        Me.cbDate.Size = New System.Drawing.Size(15, 14)
+        Me.cbDate.TabIndex = 178
+        Me.cbDate.UseVisualStyleBackColor = True
+        '
+        'Label14
+        '
+        Me.Label14.AutoSize = True
+        Me.Label14.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label14.Location = New System.Drawing.Point(8, 89)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(167, 13)
+        Me.Label14.TabIndex = 168
+        Me.Label14.Text = "Sales Order Nutrify Delivery Date"
+        '
         'frmSYSSetting
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(701, 413)
+        Me.ClientSize = New System.Drawing.Size(701, 427)
         Me.Controls.Add(Me.tabMain)
         Me.Controls.Add(Me.btnClose)
         Me.Controls.Add(Me.btnSave)
@@ -398,12 +421,12 @@ Partial Class frmSYSSetting
         Me.Text = "Background Parameter"
         Me.tabMain.ResumeLayout(False)
         Me.TabPage1.ResumeLayout(False)
-        Me.tabSystem.ResumeLayout(False)
-        Me.tabSystem.PerformLayout()
         Me.GroupBox2.ResumeLayout(False)
         Me.GroupBox2.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
+        Me.tabSystem.ResumeLayout(False)
+        Me.tabSystem.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -439,4 +462,6 @@ Partial Class frmSYSSetting
     Friend WithEvents Label11 As System.Windows.Forms.Label
     Friend WithEvents cbTruncatePurchaseVAT As System.Windows.Forms.CheckBox
     Friend WithEvents Label10 As System.Windows.Forms.Label
+    Friend WithEvents cbDate As System.Windows.Forms.CheckBox
+    Friend WithEvents Label14 As System.Windows.Forms.Label
 End Class

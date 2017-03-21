@@ -62,6 +62,10 @@ Partial Class rptSlsOrder
         Me.btnClose = New System.Windows.Forms.Button()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.btnPrintDetail = New System.Windows.Forms.Button()
+        Me.cbReqDeliveryDate = New System.Windows.Forms.CheckBox()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.dtpReqDelDateFrom = New System.Windows.Forms.DateTimePicker()
+        Me.dtpReqDelDateTo = New System.Windows.Forms.DateTimePicker()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -95,7 +99,8 @@ Partial Class rptSlsOrder
         '
         'btnClear
         '
-        Me.btnClear.Location = New System.Drawing.Point(252, 370)
+        Me.btnClear.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.btnClear.Location = New System.Drawing.Point(252, 423)
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(75, 23)
         Me.btnClear.TabIndex = 6
@@ -134,6 +139,10 @@ Partial Class rptSlsOrder
         '
         'GroupBox1
         '
+        Me.GroupBox1.Controls.Add(Me.Label14)
+        Me.GroupBox1.Controls.Add(Me.dtpReqDelDateFrom)
+        Me.GroupBox1.Controls.Add(Me.dtpReqDelDateTo)
+        Me.GroupBox1.Controls.Add(Me.cbReqDeliveryDate)
         Me.GroupBox1.Controls.Add(Me.Label13)
         Me.GroupBox1.Controls.Add(Me.btnSONOTo)
         Me.GroupBox1.Controls.Add(Me.txtSONOTo)
@@ -167,7 +176,7 @@ Partial Class rptSlsOrder
         Me.GroupBox1.Controls.Add(Me.dtpTo)
         Me.GroupBox1.Location = New System.Drawing.Point(12, 61)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(499, 303)
+        Me.GroupBox1.Size = New System.Drawing.Size(499, 356)
         Me.GroupBox1.TabIndex = 2
         Me.GroupBox1.TabStop = False
         '
@@ -432,7 +441,8 @@ Partial Class rptSlsOrder
         '
         'btnPrint
         '
-        Me.btnPrint.Location = New System.Drawing.Point(12, 370)
+        Me.btnPrint.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.btnPrint.Location = New System.Drawing.Point(12, 423)
         Me.btnPrint.Name = "btnPrint"
         Me.btnPrint.Size = New System.Drawing.Size(75, 23)
         Me.btnPrint.TabIndex = 3
@@ -441,7 +451,8 @@ Partial Class rptSlsOrder
         '
         'btnClose
         '
-        Me.btnClose.Location = New System.Drawing.Point(171, 370)
+        Me.btnClose.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.btnClose.Location = New System.Drawing.Point(171, 423)
         Me.btnClose.Name = "btnClose"
         Me.btnClose.Size = New System.Drawing.Size(75, 23)
         Me.btnClose.TabIndex = 5
@@ -460,18 +471,54 @@ Partial Class rptSlsOrder
         '
         'btnPrintDetail
         '
-        Me.btnPrintDetail.Location = New System.Drawing.Point(93, 370)
+        Me.btnPrintDetail.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.btnPrintDetail.Location = New System.Drawing.Point(93, 423)
         Me.btnPrintDetail.Name = "btnPrintDetail"
         Me.btnPrintDetail.Size = New System.Drawing.Size(75, 23)
         Me.btnPrintDetail.TabIndex = 4
         Me.btnPrintDetail.Text = "Print Detail"
         Me.btnPrintDetail.UseVisualStyleBackColor = True
         '
+        'cbReqDeliveryDate
+        '
+        Me.cbReqDeliveryDate.AutoSize = True
+        Me.cbReqDeliveryDate.Location = New System.Drawing.Point(7, 310)
+        Me.cbReqDeliveryDate.Name = "cbReqDeliveryDate"
+        Me.cbReqDeliveryDate.Size = New System.Drawing.Size(90, 17)
+        Me.cbReqDeliveryDate.TabIndex = 179
+        Me.cbReqDeliveryDate.Text = "Delivery Date"
+        Me.cbReqDeliveryDate.UseVisualStyleBackColor = True
+        '
+        'Label14
+        '
+        Me.Label14.AutoSize = True
+        Me.Label14.Location = New System.Drawing.Point(202, 312)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(20, 13)
+        Me.Label14.TabIndex = 182
+        Me.Label14.Text = "To"
+        '
+        'dtpReqDelDateFrom
+        '
+        Me.dtpReqDelDateFrom.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dtpReqDelDateFrom.Location = New System.Drawing.Point(109, 306)
+        Me.dtpReqDelDateFrom.Name = "dtpReqDelDateFrom"
+        Me.dtpReqDelDateFrom.Size = New System.Drawing.Size(87, 20)
+        Me.dtpReqDelDateFrom.TabIndex = 180
+        '
+        'dtpReqDelDateTo
+        '
+        Me.dtpReqDelDateTo.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dtpReqDelDateTo.Location = New System.Drawing.Point(228, 305)
+        Me.dtpReqDelDateTo.Name = "dtpReqDelDateTo"
+        Me.dtpReqDelDateTo.Size = New System.Drawing.Size(87, 20)
+        Me.dtpReqDelDateTo.TabIndex = 181
+        '
         'rptSlsOrder
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(527, 403)
+        Me.ClientSize = New System.Drawing.Size(527, 456)
         Me.Controls.Add(Me.btnPrintDetail)
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.GroupBox1)
@@ -529,4 +576,8 @@ Partial Class rptSlsOrder
     Friend WithEvents btnSONOFrom As System.Windows.Forms.Button
     Friend WithEvents txtSONOFrom As System.Windows.Forms.TextBox
     Friend WithEvents Label12 As System.Windows.Forms.Label
+    Friend WithEvents Label14 As System.Windows.Forms.Label
+    Friend WithEvents dtpReqDelDateFrom As System.Windows.Forms.DateTimePicker
+    Friend WithEvents dtpReqDelDateTo As System.Windows.Forms.DateTimePicker
+    Friend WithEvents cbReqDeliveryDate As System.Windows.Forms.CheckBox
 End Class

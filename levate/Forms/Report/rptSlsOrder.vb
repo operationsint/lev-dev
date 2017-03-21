@@ -12,6 +12,12 @@ Public Class rptSlsOrder
         dtpFrom.CustomFormat = "dd/MM/yyyy"
         dtpTo.Format = DateTimePickerFormat.Custom
         dtpTo.CustomFormat = "dd/MM/yyyy"
+
+        dtpReqDelDateFrom.Format = DateTimePickerFormat.Custom
+        dtpReqDelDateFrom.CustomFormat = "dd/MM/yyyy"
+        dtpReqDelDateTo.Format = DateTimePickerFormat.Custom
+        dtpReqDelDateTo.CustomFormat = "dd/MM/yyyy"
+
         GroupBox1.Enabled = False
 
         cbStatus.Items.Insert(0, "All")
@@ -20,6 +26,11 @@ Public Class rptSlsOrder
         cbStatus.Items.Insert(3, "Fully Delivered")
         cbStatus.Items.Insert(4, "Invoiced")
         cbStatus.SelectedIndex = 0
+
+        cbReqDeliveryDate.Checked = False
+
+        dtpReqDelDateFrom.Enabled = False
+        dtpReqDelDateTo.Enabled = False
 
     End Sub
     Public Property SlsNoFrom() As String
@@ -117,6 +128,8 @@ Public Class rptSlsOrder
         Dim CustCodeTo As String
         Dim SlsOrderFrom As String
         Dim SlsOrderTo As String
+        Dim reqDelDateFrom As String
+        Dim reqDelDateTo As String
 
         If rbAll.Checked = True Then
             dateFrom = ""
@@ -129,11 +142,19 @@ Public Class rptSlsOrder
             slsCodeTo = ""
             SlsOrderFrom = ""
             SlsOrderTo = ""
+            reqDelDateFrom = ""
+            reqDelDateTo = ""
         Else
             dtpFrom.Format = DateTimePickerFormat.Custom
             dtpFrom.CustomFormat = "yyyy/MM/dd"
             dtpTo.Format = DateTimePickerFormat.Custom
             dtpTo.CustomFormat = "yyyy/MM/dd"
+
+            dtpReqDelDateFrom.Format = DateTimePickerFormat.Custom
+            dtpReqDelDateFrom.CustomFormat = "yyyy/MM/dd"
+            dtpReqDelDateTo.Format = DateTimePickerFormat.Custom
+            dtpReqDelDateTo.CustomFormat = "yyyy/MM/dd"
+
             dateFrom = dtpFrom.Text
             dateTo = dtpTo.Text
 
@@ -193,14 +214,24 @@ Public Class rptSlsOrder
                 slsCodeFrom = ""
                 slsCodeTo = ""
             End If
+
             If txtCurrCode.Text = "" Then
                 currCode = ""
             Else
                 currCode = txtCurrCode.Text
             End If
+
+            If cbReqDeliveryDate.Checked = True Then
+                reqDelDateFrom = dtpReqDelDateFrom.Text
+                reqDelDateTo = dtpReqDelDateTo.Text
+            Else
+                reqDelDateFrom = ""
+                reqDelDateTo = ""
+            End If
+
         End If
 
-        strSQL = "exec RPT_Sls_Order_Report '" & SlsOrderFrom & "' , '" & SlsOrderTo & "' , '" & dateFrom & "' , '" & dateTo & "', '" & slsCodeFrom & "', '" & slsCodeTo & "', '" & currCode & "', '" & Status & "', '" & CustCodeFrom & "', '" & CustCodeTo & "' "
+        strSQL = "exec RPT_Sls_Order_Report '" & SlsOrderFrom & "' , '" & SlsOrderTo & "' , '" & dateFrom & "' , '" & dateTo & "', '" & slsCodeFrom & "', '" & slsCodeTo & "', '" & currCode & "', '" & Status & "', '" & CustCodeFrom & "', '" & CustCodeTo & "', '" & reqDelDateFrom & "' , '" & reqDelDateTo & "' "
 
         Dim DA As New SqlDataAdapter(strSQL, Connection)
         Dim DS As New DataSet
@@ -233,6 +264,12 @@ Public Class rptSlsOrder
         dtpFrom.CustomFormat = "dd/MM/yyyy"
         dtpTo.Format = DateTimePickerFormat.Custom
         dtpTo.CustomFormat = "dd/MM/yyyy"
+
+        dtpReqDelDateFrom.Format = DateTimePickerFormat.Custom
+        dtpReqDelDateFrom.CustomFormat = "dd/MM/yyyy"
+        dtpReqDelDateTo.Format = DateTimePickerFormat.Custom
+        dtpReqDelDateTo.CustomFormat = "dd/MM/yyyy"
+
         Dim crParameterFieldDefinitions As ParameterFieldDefinitions
         Dim crParameterFieldDefinition As ParameterFieldDefinition
         Dim crParameterValues As New ParameterValues
@@ -338,6 +375,8 @@ Public Class rptSlsOrder
         GroupBox1.Enabled = True
     End Sub
 
+   
+
     Private Sub btnCustFrom_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCustFrom.Click
         Dim NewFormDialog As New fdlCustomerFrom
         NewFormDialog.FrmCallerId = Me.Name
@@ -364,6 +403,8 @@ Public Class rptSlsOrder
         Dim CustCodeTo As String
         Dim SlsOrderFrom As String
         Dim SlsOrderTo As String
+        Dim reqDelDateFrom As String
+        Dim reqDelDateTo As String
 
         If rbAll.Checked = True Then
             dateFrom = ""
@@ -376,11 +417,19 @@ Public Class rptSlsOrder
             slsCodeTo = ""
             SlsOrderFrom = ""
             SlsOrderTo = ""
+            reqDelDateFrom = ""
+            reqDelDateTo = ""
         Else
             dtpFrom.Format = DateTimePickerFormat.Custom
             dtpFrom.CustomFormat = "yyyy/MM/dd"
             dtpTo.Format = DateTimePickerFormat.Custom
             dtpTo.CustomFormat = "yyyy/MM/dd"
+
+            dtpReqDelDateFrom.Format = DateTimePickerFormat.Custom
+            dtpReqDelDateFrom.CustomFormat = "yyyy/MM/dd"
+            dtpReqDelDateTo.Format = DateTimePickerFormat.Custom
+            dtpReqDelDateTo.CustomFormat = "yyyy/MM/dd"
+
             dateFrom = dtpFrom.Text
             dateTo = dtpTo.Text
 
@@ -440,14 +489,23 @@ Public Class rptSlsOrder
                 slsCodeFrom = ""
                 slsCodeTo = ""
             End If
+
             If txtCurrCode.Text = "" Then
                 currCode = ""
             Else
                 currCode = txtCurrCode.Text
             End If
+
+            If cbReqDeliveryDate.Checked = True Then
+                reqDelDateFrom = dtpReqDelDateFrom.Text
+                reqDelDateTo = dtpReqDelDateTo.Text
+            Else
+                reqDelDateFrom = ""
+                reqDelDateTo = ""
+            End If
         End If
 
-        strSQL = "exec RPT_Sls_Order_Dtl_Report '" & SlsOrderFrom & "' , '" & SlsOrderTo & "' , '" & dateFrom & "' , '" & dateTo & "', '" & slsCodeFrom & "', '" & slsCodeTo & "', '" & currCode & "', '" & Status & "', '" & CustCodeFrom & "', '" & CustCodeTo & "' "
+        strSQL = "exec RPT_Sls_Order_Dtl_Report '" & SlsOrderFrom & "' , '" & SlsOrderTo & "' , '" & dateFrom & "' , '" & dateTo & "', '" & slsCodeFrom & "', '" & slsCodeTo & "', '" & currCode & "', '" & Status & "', '" & CustCodeFrom & "', '" & CustCodeTo & "', '" & reqDelDateFrom & "' , '" & reqDelDateTo & "' "
 
         Dim DA As New SqlDataAdapter(strSQL, Connection)
         Dim DS As New DataSet
@@ -474,6 +532,12 @@ Public Class rptSlsOrder
         dtpFrom.CustomFormat = "dd/MM/yyyy"
         dtpTo.Format = DateTimePickerFormat.Custom
         dtpTo.CustomFormat = "dd/MM/yyyy"
+
+        dtpReqDelDateFrom.Format = DateTimePickerFormat.Custom
+        dtpReqDelDateFrom.CustomFormat = "dd/MM/yyyy"
+        dtpReqDelDateTo.Format = DateTimePickerFormat.Custom
+        dtpReqDelDateTo.CustomFormat = "dd/MM/yyyy"
+
         Dim crParameterFieldDefinitions As ParameterFieldDefinitions
         Dim crParameterFieldDefinition As ParameterFieldDefinition
         Dim crParameterValues As New ParameterValues
@@ -550,5 +614,16 @@ Public Class rptSlsOrder
         Dim NewFormDialog As New fdlSOrderFrom
         NewFormDialog.FrmCallerId = Me.Name + "To"
         NewFormDialog.ShowDialog()
+    End Sub
+
+    
+    Private Sub cbReqDeliveryDate_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbReqDeliveryDate.CheckedChanged
+        If cbReqDeliveryDate.Checked = False Then
+            dtpReqDelDateFrom.Enabled = False
+            dtpReqDelDateTo.Enabled = False
+        Else
+            dtpReqDelDateFrom.Enabled = True
+            dtpReqDelDateTo.Enabled = True
+        End If
     End Sub
 End Class

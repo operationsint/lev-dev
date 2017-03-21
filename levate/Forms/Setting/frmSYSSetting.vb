@@ -33,6 +33,12 @@ Public Class frmSYSSetting
             cbPlay.Checked = False
         End If
 
+        If GetSysInit("autoDeliveryDate") = "True" Then
+            cbDate.Checked = True
+        Else
+            cbDate.Checked = False
+        End If
+
         Dim mList As clsMyListInt
         For i = 1 To cmbFirstFiscalMonth.Items.Count
             mList = cmbFirstFiscalMonth.Items(i - 1)
@@ -76,6 +82,12 @@ Public Class frmSYSSetting
                 UpdSysInitial("isPlay", "True")
             Else
                 UpdSysInitial("isPlay", "False")
+            End If
+
+            If cbDate.Checked = True Then
+                UpdSysInitial("autoDeliveryDate", "True")
+            Else
+                UpdSysInitial("autoDeliveryDate", "False")
             End If
 
             '20161104
