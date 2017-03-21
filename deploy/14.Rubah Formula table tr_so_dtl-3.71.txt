@@ -1,0 +1,2 @@
+so_dtl_net formula :
+(([so_qty]*[so_price]+[so_dtl_discamount2])+[so_dtl_tax2])
