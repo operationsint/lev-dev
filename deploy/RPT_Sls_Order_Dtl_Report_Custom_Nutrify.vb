@@ -18,7 +18,7 @@ Imports System
 Imports System.ComponentModel
 
 
-Public Class RPT_Sls_Order_Dtl_Report
+Public Class RPT_Sls_Order_Dtl_Report_Custom_Nutrify
     Inherits ReportClass
     
     Public Sub New()
@@ -27,7 +27,7 @@ Public Class RPT_Sls_Order_Dtl_Report
     
     Public Overrides Property ResourceName() As String
         Get
-            Return "RPT_Sls_Order_Dtl_Report.rpt"
+            Return "RPT_Sls_Order_Dtl_Report_Custom_Nutrify.rpt"
         End Get
         Set
             'Do nothing
@@ -45,7 +45,7 @@ Public Class RPT_Sls_Order_Dtl_Report
     
     Public Overrides Property FullResourceName() As String
         Get
-            Return "levate.RPT_Sls_Order_Dtl_Report.rpt"
+            Return "levate.RPT_Sls_Order_Dtl_Report_Custom_Nutrify.rpt"
         End Get
         Set
             'Do nothing
@@ -278,7 +278,7 @@ Public Class RPT_Sls_Order_Dtl_Report
 End Class
 
 <System.Drawing.ToolboxBitmapAttribute(GetType(CrystalDecisions.[Shared].ExportOptions), "report.bmp")>  _
-Public Class CachedRPT_Sls_Order_Dtl_Report
+Public Class CachedRPT_Sls_Order_Dtl_Report_Custom_Nutrify
     Inherits Component
     Implements ICachedReport
     
@@ -320,7 +320,7 @@ Public Class CachedRPT_Sls_Order_Dtl_Report
     End Property
     
     Public Overridable Function CreateReport() As CrystalDecisions.CrystalReports.Engine.ReportDocument Implements CrystalDecisions.ReportSource.ICachedReport.CreateReport
-        Dim rpt As RPT_Sls_Order_Dtl_Report = New RPT_Sls_Order_Dtl_Report()
+        Dim rpt As RPT_Sls_Order_Dtl_Report_Custom_Nutrify = New RPT_Sls_Order_Dtl_Report_Custom_Nutrify()
         rpt.Site = Me.Site
         Return rpt
     End Function
