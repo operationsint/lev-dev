@@ -185,27 +185,28 @@ Partial Class frmSKUPackage
         '
         'Label8
         '
+        Me.Label8.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(554, 103)
+        Me.Label8.Location = New System.Drawing.Point(346, 40)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(107, 13)
         Me.Label8.TabIndex = 114
         Me.Label8.Text = "Unit of Measurement"
-        Me.Label8.Visible = False
         '
         'txtSKUUoM
         '
+        Me.txtSKUUoM.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtSKUUoM.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtSKUUoM.Location = New System.Drawing.Point(683, 103)
+        Me.txtSKUUoM.Location = New System.Drawing.Point(465, 37)
         Me.txtSKUUoM.MaxLength = 50
         Me.txtSKUUoM.Name = "txtSKUUoM"
-        Me.txtSKUUoM.Size = New System.Drawing.Size(131, 21)
-        Me.txtSKUUoM.TabIndex = 5
-        Me.txtSKUUoM.Visible = False
+        Me.txtSKUUoM.Size = New System.Drawing.Size(192, 21)
+        Me.txtSKUUoM.TabIndex = 4
         '
         'Label7
         '
+        Me.Label7.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label7.Location = New System.Drawing.Point(346, 72)
@@ -217,12 +218,13 @@ Partial Class frmSKUPackage
         '
         'txtSKUBarcode
         '
+        Me.txtSKUBarcode.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtSKUBarcode.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtSKUBarcode.Location = New System.Drawing.Point(398, 67)
+        Me.txtSKUBarcode.Location = New System.Drawing.Point(465, 67)
         Me.txtSKUBarcode.MaxLength = 50
         Me.txtSKUBarcode.Name = "txtSKUBarcode"
-        Me.txtSKUBarcode.Size = New System.Drawing.Size(259, 21)
-        Me.txtSKUBarcode.TabIndex = 4
+        Me.txtSKUBarcode.Size = New System.Drawing.Size(192, 21)
+        Me.txtSKUBarcode.TabIndex = 5
         Me.txtSKUBarcode.Visible = False
         '
         'Label1
@@ -262,7 +264,7 @@ Partial Class frmSKUPackage
         Me.txtSKUName1.Location = New System.Drawing.Point(142, 37)
         Me.txtSKUName1.MaxLength = 50
         Me.txtSKUName1.Name = "txtSKUName1"
-        Me.txtSKUName1.Size = New System.Drawing.Size(259, 21)
+        Me.txtSKUName1.Size = New System.Drawing.Size(192, 21)
         Me.txtSKUName1.TabIndex = 2
         '
         'txtSKUCode1
@@ -335,7 +337,7 @@ Partial Class frmSKUPackage
         '
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(14, 485)
+        Me.Label9.Location = New System.Drawing.Point(17, 488)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(48, 13)
         Me.Label9.TabIndex = 121

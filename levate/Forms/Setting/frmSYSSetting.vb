@@ -34,9 +34,15 @@ Public Class frmSYSSetting
         End If
 
         If GetSysInit("autoDeliveryDate") = "True" Then
-            cbDate.Checked = True
+            cbDeliveryDate.Checked = True
         Else
-            cbDate.Checked = False
+            cbDeliveryDate.Checked = False
+        End If
+
+        If GetSysInit("so_tier_disc") = "True" Then
+            cbTierDisc.Checked = True
+        Else
+            cbTierDisc.Checked = False
         End If
 
         Dim mList As clsMyListInt
@@ -84,10 +90,16 @@ Public Class frmSYSSetting
                 UpdSysInitial("isPlay", "False")
             End If
 
-            If cbDate.Checked = True Then
+            If cbDeliveryDate.Checked = True Then
                 UpdSysInitial("autoDeliveryDate", "True")
             Else
                 UpdSysInitial("autoDeliveryDate", "False")
+            End If
+
+            If cbTierDisc.Checked = True Then
+                UpdSysInitial("so_tier_disc", "True")
+            Else
+                UpdSysInitial("so_tier_disc", "False")
             End If
 
             '20161104
