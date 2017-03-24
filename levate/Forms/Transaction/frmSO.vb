@@ -30,6 +30,7 @@ Public Class frmSO
     Dim Dec As Integer = GetSysInit("decimal_digit")
     Dim SO_Edit_Price As Integer = GetSysInit("so_edit_price")
     Dim tempSave As Boolean = False
+    Dim SO_Tier_Disc As Boolean = CBool(GetSysInit("so_tier_disc"))
 
     ' 20160505 daniel s : 0 = percent 1=amount
     Dim SO_Disc_Mode As Integer = 0
@@ -377,8 +378,10 @@ Public Class frmSO
         txtSODtlDesc.Text = ""
         ntbSOQty.Text = FormatNumber(1)
         ntbSOPrice.Text = FormatNumber(0)
+        ntbSOPriceIncludeTax.Text = FormatNumber(0)
         txtSOGrossAmt.Text = FormatNumber(0)
         ntbSODiscPercent.Text = FormatNumber(0, 2)
+        ntbSODiscPercent2.Text = FormatNumber(0, 2)
         ntbSODiscAmt.Text = FormatNumber(0)
         txtSOGrossAfterDiscAmt.Text = FormatNumber(0)
         ntbSOTaxPercent.Text = FormatNumber(m_SOTaxPercent, 0)
@@ -388,6 +391,7 @@ Public Class frmSO
         txtLotJobNo.Text = ""
         dtpRequiredDeliveryDate.Checked = False
         dtpRequiredDeliveryDate.Value = dtpDeliveryDate.Value
+
     End Sub
 
     Sub lock_obj(ByVal isLock As Boolean)
@@ -433,6 +437,14 @@ Public Class frmSO
     End Sub
 
     Sub lock_objD(ByVal isLock As Boolean)
+        If SO_Tier_Disc = True Then
+            ntbSODiscPercent2.ReadOnly = False
+            ntbSODiscAmt.ReadOnly = True
+        Else
+            ntbSODiscPercent2.ReadOnly = True
+            ntbSODiscAmt.ReadOnly = False
+        End If
+
         cmbSODtlType.Enabled = Not isLock
         txtSODtlDesc.ReadOnly = isLock
         ntbSOQty.ReadOnly = isLock
@@ -460,13 +472,17 @@ Public Class frmSO
                 ntbSOPriceIncludeTax.ReadOnly = False
                 ntbSODiscAmt.Enabled = False
                 ntbSODiscPercent.Enabled = False
+                ntbSODiscPercent2.Enabled = False
             Else
                 ntbSOPrice.ReadOnly = False
                 ntbSOPriceIncludeTax.ReadOnly = True
-                ntbSODiscAmt.Enabled = True
                 ntbSODiscPercent.Enabled = True
+                ntbSODiscPercent2.Enabled = True
+                ntbSODiscAmt.Enabled = True
             End If
         End If
+
+
 
     End Sub
 
@@ -497,6 +513,7 @@ Public Class frmSO
             .Columns.Add("Lot Job No.", 80)
             .Columns.Add("Required Delivery Date", 120)
             .Columns.Add("Editable Price", 80)
+            .Columns.Add("Tier Disc", 0, HorizontalAlignment.Right)
         End With
 
         If m_SOId <> 0 Then
@@ -572,6 +589,8 @@ Public Class frmSO
                     End If
                 Next
                 lvItem.SubItems.Add(myReader.Item(26))
+                lvItem.SubItems.Add(myReader.Item(27))
+
                 If intCurrRow Mod 2 = 0 Then
                     lvItem.BackColor = Color.Lavender
                 Else
@@ -699,7 +718,7 @@ Public Class frmSO
     Sub refresh_totalD()
         txtSOGrossAmt.Text = FormatNumber(CDbl(ntbSOQty.Text) * CDbl(ntbSOPrice.Text))
 
-        txtSOGrossAfterDiscAmt.Text = FormatNumber((1 - CDbl(ntbSODiscPercent.Text) / 100) * CDbl(txtSOGrossAmt.Text))
+        txtSOGrossAfterDiscAmt.Text = FormatNumber(CDbl(txtSOGrossAmt.Text) + CDbl(ntbSODiscAmt.Text))
 
         ' 20160505 daniel s : use disc amt 
         If SO_Disc_Mode = 1 Then
@@ -715,6 +734,7 @@ Public Class frmSO
         Else
             ntbSODiscAmt.Text = "0"
             ntbSODiscPercent.Text = "0"
+            ntbSODiscPercent2.Text = "0"
             txtSONetAmt.Text = FormatNumber(CDbl(ntbSOPriceIncludeTax.Text) * CDbl(ntbSOQty.Text))
         End If
 
@@ -963,6 +983,10 @@ Public Class frmSO
             Dim prm27 As SqlParameter = cmd.Parameters.Add("@so_dtl_tax2", SqlDbType.Money)
             prm27.Value = CDbl(txtSOTaxAmt.Text)
 
+            '20170323 : disc tier
+            Dim prm28 As SqlParameter = cmd.Parameters.Add("@so_dtl_tierdiscpercent", SqlDbType.Decimal)
+            prm28.Value = CDbl(ntbSODiscPercent2.Text) / 100
+
             cn.Open()
             cmd.ExecuteReader()
             cn.Close()
@@ -1116,6 +1140,15 @@ Public Class frmSO
                     ntbSOPrice.ReadOnly = True
                 End If
             End If
+
+            If .SubItems.Item(22).Text = "Yes" Then
+                dtpRequiredDeliveryDate.Enabled = True
+            Else
+                dtpRequiredDeliveryDate.Enabled = False
+            End If
+
+            ntbSODiscPercent2.Text = FormatNumber(.SubItems.Item(23).Text, 0)
+
         End With
 
     End Sub
@@ -1173,50 +1206,88 @@ Public Class frmSO
         Else
             ntbSOQty.Text = ntbSOQty.Text
         End If
-        ntbSODiscAmt.Text = FormatNumber((CDbl(ntbSOQty.Text) * CDbl(ntbSOPrice.Text) * CDbl(ntbSODiscPercent.Text) / 100) * -1)
-        refresh_totalD()
+
+        DetailCount()
     End Sub
 
     Private Sub ntbSOPrice_LostFocus(ByVal sender As Object, ByVal e As System.EventArgs) Handles ntbSOPrice.LostFocus
         If ntbSOPrice.Text = "" Then ntbSOPrice.Text = FormatNumber(0)
-        ntbSODiscAmt.Text = FormatNumber((CDbl(ntbSOQty.Text) * CDbl(ntbSOPrice.Text) * CDbl(ntbSODiscPercent.Text) / 100) * -1)
-        refresh_totalD()
+
+        DetailCount()
+
         ntbSOPrice.Text = FormatNumber(ntbSOPrice.Text, Dec)
     End Sub
 
     Private Sub ntbSODiscAmt_LostFocus(ByVal sender As Object, ByVal e As System.EventArgs) Handles ntbSODiscAmt.LostFocus
         If ntbSODiscAmt.Text = "" Then ntbSODiscAmt.Text = FormatNumber(0)
-        If CDbl(ntbSODiscAmt.Text) > 0 Then ntbSODiscAmt.Text = CDbl(ntbSODiscAmt.Text) * -1
-        If CDbl(ntbSODiscAmt.Text) < 0 Then
-            ntbSODiscPercent.Text = FormatNumber(CDbl(ntbSODiscAmt.Text) * -1 / (CDbl(ntbSOQty.Text) * CDbl(ntbSOPrice.Text)) * 100, 2)
-        Else
-            ntbSODiscPercent.Text = FormatNumber(0, 2)
+        If SO_Tier_Disc = False Then
+            If CDbl(ntbSODiscAmt.Text) > 0 Then ntbSODiscAmt.Text = CDbl(ntbSODiscAmt.Text) * -1
+            If CDbl(ntbSODiscAmt.Text) < 0 Then
+                ntbSODiscPercent.Text = FormatNumber(CDbl(ntbSODiscAmt.Text) * -1 / (CDbl(ntbSOQty.Text) * CDbl(ntbSOPrice.Text)) * 100, 2)
+            Else
+                ntbSODiscPercent.Text = FormatNumber(0, 2)
+            End If
+
+            SO_Disc_Mode = 1
+
+            refresh_totalD()
         End If
-
-        SO_Disc_Mode = 1
-
-        refresh_totalD()
         ntbSODiscAmt.Text = FormatNumber(ntbSODiscAmt.Text)
     End Sub
 
     Private Sub ntbSOTaxPercent_LostFocus(ByVal sender As Object, ByVal e As System.EventArgs) Handles ntbSOTaxPercent.LostFocus
         If ntbSOTaxPercent.Text = "" Then ntbSOTaxPercent.Text = FormatNumber(m_SOTaxPercent)
-        refresh_totalD()
+        DetailCount()
     End Sub
 
     Private Sub ntbSODiscPercent_LostFocus(ByVal sender As Object, ByVal e As System.EventArgs) Handles ntbSODiscPercent.LostFocus
         If ntbSODiscPercent.Text = "" Then ntbSODiscPercent.Text = FormatNumber(0)
-        ntbSODiscAmt.Text = FormatNumber((CDbl(ntbSOQty.Text) * CDbl(ntbSOPrice.Text) * CDbl(ntbSODiscPercent.Text) / 100) * -1)
+
+        DetailCount()
 
         SO_Disc_Mode = 0
 
-        refresh_totalD()
         ntbSODiscPercent.Text = FormatNumber(ntbSODiscPercent.Text, 2)
     End Sub
 
-    Private Sub ntbSOQty_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ntbSOQty.TextChanged
+    Private Sub ntbSODiscPercent2_LostFocus(ByVal sender As Object, ByVal e As System.EventArgs) Handles ntbSODiscPercent2.LostFocus
+        If ntbSODiscPercent2.Text = "" Then ntbSODiscPercent2.Text = FormatNumber(0)
 
+        DetailCount()
+
+        SO_Disc_Mode = 0
+
+        ntbSODiscPercent2.Text = FormatNumber(ntbSODiscPercent2.Text, 2)
     End Sub
+
+    Sub DetailCount()
+        Dim jumlah0 As Decimal
+        Dim jumlah1 As Decimal
+        Dim jumlah2 As Decimal
+        Dim jumlah3 As Decimal
+        Dim jumlah4 As Decimal = 0
+
+        If cbIncludeTax.Checked = True Then
+            ntbSOPrice.Text = FormatNumber((CDbl(ntbSOPriceIncludeTax.Text) / ((CDbl(ntbSOTaxPercent.Text) + 100) / 100)), Dec)
+        End If
+
+        If CDbl(ntbSODiscPercent.Text) > 0 Or CDbl(ntbSODiscPercent2.Text) > 0 Then
+            jumlah0 = FormatNumber(CDbl(ntbSOQty.Text) * CDbl(ntbSOPrice.Text))
+            jumlah1 = FormatNumber((jumlah0 * CDbl(ntbSODiscPercent.Text) / 100) * -1)
+            jumlah2 = FormatNumber(CDbl(ntbSOQty.Text) * CDbl(ntbSOPrice.Text) + jumlah1)
+            jumlah3 = FormatNumber((jumlah2 * CDbl(ntbSODiscPercent2.Text) / 100) * -1)
+            jumlah4 = jumlah1 + jumlah3
+        End If
+
+        If jumlah4 > 0 Then
+            jumlah4 = jumlah4 * -1
+        End If
+
+        ntbSODiscAmt.Text = jumlah4
+
+        refresh_totalD()
+    End Sub
+    
 
     Private Sub btnPrint_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnPrint.Click
         Dim strConnection As String = My.Settings.ConnStr
@@ -1477,16 +1548,12 @@ Public Class frmSO
     Private Sub ntbSOPriceIncludeTax_LostFocus(sender As System.Object, e As System.EventArgs) Handles ntbSOPriceIncludeTax.LostFocus
         '20160823 price include tax
         If ntbSOPriceIncludeTax.Text = "" Then ntbSOPriceIncludeTax.Text = FormatNumber(0)
-        ntbSOPrice.Text = FormatNumber((CDbl(ntbSOPriceIncludeTax.Text) / ((CDbl(ntbSOTaxPercent.Text) + 100) / 100)), Dec)
-
-        txtSOGrossAfterDiscAmt.Text = FormatNumber((ntbSOQty.Text) * CDbl(ntbSOPrice.Text))
-        txtSOGrossAmt.Text = FormatNumber((ntbSOQty.Text) * CDbl(ntbSOPrice.Text))
 
         ntbSODiscAmt.Text = "0"
         ntbSODiscPercent.Text = "0"
+        ntbSODiscPercent2.Text = "0"
 
-        txtSONetAmt.Text = FormatNumber(CDbl(ntbSOPriceIncludeTax.Text) * CDbl(ntbSOQty.Text))
-        txtSOTaxAmt.Text = FormatNumber((txtSONetAmt.Text) - (txtSOGrossAmt.Text))
+        DetailCount()
 
         ntbSOPriceIncludeTax.Text = FormatNumber(ntbSOPriceIncludeTax.Text, Dec)
 

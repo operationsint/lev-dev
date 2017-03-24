@@ -84,7 +84,7 @@ Public Class fdlSKUSO
             .SKUId = LeftSplitUF(ListView1.SelectedItems.Item(0).Tag)
             .SKUCode = ListView1.SelectedItems.Item(0).SubItems.Item(1).Text
             .SKUName = ListView1.SelectedItems.Item(0).SubItems.Item(2).Text
-            .SalesDiscount = ListView1.SelectedItems.Item(0).SubItems.Item(5).Text * 100
+            .SalesDiscount = FormatNumber(ListView1.SelectedItems.Item(0).SubItems.Item(5).Text * 100, Dec)
             '.SalesPrice = FormatNumber(CDbl(ListView1.SelectedItems.Item(0).SubItems.Item(6).Text) / .ntbSOCurrRate.DecimalValue, Dec)
             .SalesPrice = FormatNumber(ListView1.SelectedItems.Item(0).SubItems.Item(6).Text, Dec)
             .SKUPackageCheck = ListView1.SelectedItems.Item(0).SubItems.Item(10).Text

@@ -1,0 +1,1 @@
+ALTER TABLE tr_so_dtl ADD so_dtl_tierdiscpercent decimal(18,4);

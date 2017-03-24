@@ -70,7 +70,6 @@ Partial Class frmSO
         Me.Label19 = New System.Windows.Forms.Label()
         Me.Label20 = New System.Windows.Forms.Label()
         Me.Label21 = New System.Windows.Forms.Label()
-        Me.Label22 = New System.Windows.Forms.Label()
         Me.Label23 = New System.Windows.Forms.Label()
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.Label24 = New System.Windows.Forms.Label()
@@ -115,17 +114,22 @@ Partial Class frmSO
         Me.txtSInvoiceNo = New System.Windows.Forms.TextBox()
         Me.Label41 = New System.Windows.Forms.Label()
         Me.btnInvoiceNo = New System.Windows.Forms.Button()
+        Me.btnPrintSInv = New System.Windows.Forms.Button()
+        Me.cbIncludeTax = New System.Windows.Forms.CheckBox()
+        Me.btnPrintPackingSlip = New System.Windows.Forms.Button()
+        Me.Label40 = New System.Windows.Forms.Label()
+        Me.Label42 = New System.Windows.Forms.Label()
+        Me.gbDisc = New System.Windows.Forms.GroupBox()
+        Me.ntbSODiscPercent2 = New levate.NumericTextBox()
+        Me.ntbSODiscPercent = New levate.NumericTextBox()
+        Me.ntbSODiscAmt = New levate.NumericTextBox()
+        Me.ntbSOPriceIncludeTax = New levate.NumericTextBox()
         Me.ntbSOCurrRate = New levate.NumericTextBox()
         Me.ntbSOTaxPercent = New levate.NumericTextBox()
-        Me.ntbSODiscAmt = New levate.NumericTextBox()
-        Me.ntbSODiscPercent = New levate.NumericTextBox()
         Me.ntbPaymentTerms = New levate.NumericTextBox()
         Me.ntbSOPrice = New levate.NumericTextBox()
         Me.ntbSOQty = New levate.NumericTextBox()
-        Me.btnPrintSInv = New System.Windows.Forms.Button()
-        Me.ntbSOPriceIncludeTax = New levate.NumericTextBox()
-        Me.cbIncludeTax = New System.Windows.Forms.CheckBox()
-        Me.btnPrintPackingSlip = New System.Windows.Forms.Button()
+        Me.gbDisc.SuspendLayout()
         Me.SuspendLayout()
         '
         'txtSONo
@@ -567,15 +571,6 @@ Partial Class frmSO
         Me.Label21.TabIndex = 64
         Me.Label21.Text = "Unit Price"
         '
-        'Label22
-        '
-        Me.Label22.AutoSize = True
-        Me.Label22.Location = New System.Drawing.Point(806, 197)
-        Me.Label22.Name = "Label22"
-        Me.Label22.Size = New System.Drawing.Size(44, 13)
-        Me.Label22.TabIndex = 65
-        Me.Label22.Text = "Disc. %"
-        '
         'Label23
         '
         Me.Label23.AutoSize = True
@@ -588,11 +583,11 @@ Partial Class frmSO
         'Label24
         '
         Me.Label24.AutoSize = True
-        Me.Label24.Location = New System.Drawing.Point(861, 197)
+        Me.Label24.Location = New System.Drawing.Point(63, 18)
         Me.Label24.Name = "Label24"
-        Me.Label24.Size = New System.Drawing.Size(70, 13)
+        Me.Label24.Size = New System.Drawing.Size(44, 13)
         Me.Label24.TabIndex = 69
-        Me.Label24.Text = "Disc. Amount"
+        Me.Label24.Text = "Amount"
         '
         'Label25
         '
@@ -655,7 +650,7 @@ Partial Class frmSO
         Me.txtSOGrossAfterDiscAmt.Name = "txtSOGrossAfterDiscAmt"
         Me.txtSOGrossAfterDiscAmt.ReadOnly = True
         Me.txtSOGrossAfterDiscAmt.Size = New System.Drawing.Size(97, 21)
-        Me.txtSOGrossAfterDiscAmt.TabIndex = 29
+        Me.txtSOGrossAfterDiscAmt.TabIndex = 27
         Me.txtSOGrossAfterDiscAmt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label26
@@ -971,6 +966,110 @@ Partial Class frmSO
         Me.btnInvoiceNo.Text = "Invoice No. Booking"
         Me.btnInvoiceNo.UseVisualStyleBackColor = True
         '
+        'btnPrintSInv
+        '
+        Me.btnPrintSInv.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnPrintSInv.Location = New System.Drawing.Point(1174, 601)
+        Me.btnPrintSInv.Name = "btnPrintSInv"
+        Me.btnPrintSInv.Size = New System.Drawing.Size(84, 26)
+        Me.btnPrintSInv.TabIndex = 55
+        Me.btnPrintSInv.Text = "Print S. Inv."
+        Me.btnPrintSInv.UseVisualStyleBackColor = True
+        '
+        'cbIncludeTax
+        '
+        Me.cbIncludeTax.AutoSize = True
+        Me.cbIncludeTax.Location = New System.Drawing.Point(630, 154)
+        Me.cbIncludeTax.Name = "cbIncludeTax"
+        Me.cbIncludeTax.Size = New System.Drawing.Size(116, 17)
+        Me.cbIncludeTax.TabIndex = 122
+        Me.cbIncludeTax.Text = "Price Including Tax"
+        Me.cbIncludeTax.UseVisualStyleBackColor = True
+        '
+        'btnPrintPackingSlip
+        '
+        Me.btnPrintPackingSlip.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnPrintPackingSlip.Location = New System.Drawing.Point(994, 601)
+        Me.btnPrintPackingSlip.Name = "btnPrintPackingSlip"
+        Me.btnPrintPackingSlip.Size = New System.Drawing.Size(84, 26)
+        Me.btnPrintPackingSlip.TabIndex = 124
+        Me.btnPrintPackingSlip.Text = "Packing Slip"
+        Me.btnPrintPackingSlip.UseVisualStyleBackColor = True
+        '
+        'Label40
+        '
+        Me.Label40.AutoSize = True
+        Me.Label40.Location = New System.Drawing.Point(2, 18)
+        Me.Label40.Name = "Label40"
+        Me.Label40.Size = New System.Drawing.Size(29, 13)
+        Me.Label40.TabIndex = 126
+        Me.Label40.Text = "Main"
+        '
+        'Label42
+        '
+        Me.Label42.AutoSize = True
+        Me.Label42.Location = New System.Drawing.Point(32, 18)
+        Me.Label42.Name = "Label42"
+        Me.Label42.Size = New System.Drawing.Size(25, 13)
+        Me.Label42.TabIndex = 127
+        Me.Label42.Text = "Tier"
+        '
+        'gbDisc
+        '
+        Me.gbDisc.Controls.Add(Me.ntbSODiscPercent2)
+        Me.gbDisc.Controls.Add(Me.Label42)
+        Me.gbDisc.Controls.Add(Me.ntbSODiscPercent)
+        Me.gbDisc.Controls.Add(Me.Label40)
+        Me.gbDisc.Controls.Add(Me.ntbSODiscAmt)
+        Me.gbDisc.Controls.Add(Me.Label24)
+        Me.gbDisc.Location = New System.Drawing.Point(800, 181)
+        Me.gbDisc.Name = "gbDisc"
+        Me.gbDisc.Size = New System.Drawing.Size(130, 60)
+        Me.gbDisc.TabIndex = 128
+        Me.gbDisc.TabStop = False
+        Me.gbDisc.Text = "Disc. %"
+        '
+        'ntbSODiscPercent2
+        '
+        Me.ntbSODiscPercent2.AllowSpace = False
+        Me.ntbSODiscPercent2.Location = New System.Drawing.Point(32, 34)
+        Me.ntbSODiscPercent2.MaxLength = 3
+        Me.ntbSODiscPercent2.Name = "ntbSODiscPercent2"
+        Me.ntbSODiscPercent2.ReadOnly = True
+        Me.ntbSODiscPercent2.Size = New System.Drawing.Size(29, 21)
+        Me.ntbSODiscPercent2.TabIndex = 1
+        Me.ntbSODiscPercent2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'ntbSODiscPercent
+        '
+        Me.ntbSODiscPercent.AllowSpace = False
+        Me.ntbSODiscPercent.Location = New System.Drawing.Point(1, 34)
+        Me.ntbSODiscPercent.MaxLength = 3
+        Me.ntbSODiscPercent.Name = "ntbSODiscPercent"
+        Me.ntbSODiscPercent.Size = New System.Drawing.Size(29, 21)
+        Me.ntbSODiscPercent.TabIndex = 0
+        Me.ntbSODiscPercent.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'ntbSODiscAmt
+        '
+        Me.ntbSODiscAmt.AllowSpace = False
+        Me.ntbSODiscAmt.Location = New System.Drawing.Point(62, 34)
+        Me.ntbSODiscAmt.MaxLength = 14
+        Me.ntbSODiscAmt.Name = "ntbSODiscAmt"
+        Me.ntbSODiscAmt.Size = New System.Drawing.Size(65, 21)
+        Me.ntbSODiscAmt.TabIndex = 2
+        Me.ntbSODiscAmt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'ntbSOPriceIncludeTax
+        '
+        Me.ntbSOPriceIncludeTax.AllowSpace = False
+        Me.ntbSOPriceIncludeTax.Location = New System.Drawing.Point(630, 172)
+        Me.ntbSOPriceIncludeTax.MaxLength = 18
+        Me.ntbSOPriceIncludeTax.Name = "ntbSOPriceIncludeTax"
+        Me.ntbSOPriceIncludeTax.Size = New System.Drawing.Size(80, 21)
+        Me.ntbSOPriceIncludeTax.TabIndex = 123
+        Me.ntbSOPriceIncludeTax.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
         'ntbSOCurrRate
         '
         Me.ntbSOCurrRate.AllowSpace = False
@@ -990,26 +1089,6 @@ Partial Class frmSO
         Me.ntbSOTaxPercent.Size = New System.Drawing.Size(40, 21)
         Me.ntbSOTaxPercent.TabIndex = 30
         Me.ntbSOTaxPercent.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        '
-        'ntbSODiscAmt
-        '
-        Me.ntbSODiscAmt.AllowSpace = False
-        Me.ntbSODiscAmt.Location = New System.Drawing.Point(848, 215)
-        Me.ntbSODiscAmt.MaxLength = 14
-        Me.ntbSODiscAmt.Name = "ntbSODiscAmt"
-        Me.ntbSODiscAmt.Size = New System.Drawing.Size(81, 21)
-        Me.ntbSODiscAmt.TabIndex = 28
-        Me.ntbSODiscAmt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        '
-        'ntbSODiscPercent
-        '
-        Me.ntbSODiscPercent.AllowSpace = False
-        Me.ntbSODiscPercent.Location = New System.Drawing.Point(802, 215)
-        Me.ntbSODiscPercent.MaxLength = 3
-        Me.ntbSODiscPercent.Name = "ntbSODiscPercent"
-        Me.ntbSODiscPercent.Size = New System.Drawing.Size(40, 21)
-        Me.ntbSODiscPercent.TabIndex = 27
-        Me.ntbSODiscPercent.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'ntbPaymentTerms
         '
@@ -1041,52 +1120,13 @@ Partial Class frmSO
         Me.ntbSOQty.TabIndex = 22
         Me.ntbSOQty.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
-        'btnPrintSInv
-        '
-        Me.btnPrintSInv.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnPrintSInv.Location = New System.Drawing.Point(1174, 601)
-        Me.btnPrintSInv.Name = "btnPrintSInv"
-        Me.btnPrintSInv.Size = New System.Drawing.Size(84, 26)
-        Me.btnPrintSInv.TabIndex = 55
-        Me.btnPrintSInv.Text = "Print S. Inv."
-        Me.btnPrintSInv.UseVisualStyleBackColor = True
-        '
-        'ntbSOPriceIncludeTax
-        '
-        Me.ntbSOPriceIncludeTax.AllowSpace = False
-        Me.ntbSOPriceIncludeTax.Location = New System.Drawing.Point(630, 172)
-        Me.ntbSOPriceIncludeTax.MaxLength = 18
-        Me.ntbSOPriceIncludeTax.Name = "ntbSOPriceIncludeTax"
-        Me.ntbSOPriceIncludeTax.Size = New System.Drawing.Size(80, 21)
-        Me.ntbSOPriceIncludeTax.TabIndex = 123
-        Me.ntbSOPriceIncludeTax.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        '
-        'cbIncludeTax
-        '
-        Me.cbIncludeTax.AutoSize = True
-        Me.cbIncludeTax.Location = New System.Drawing.Point(630, 154)
-        Me.cbIncludeTax.Name = "cbIncludeTax"
-        Me.cbIncludeTax.Size = New System.Drawing.Size(116, 17)
-        Me.cbIncludeTax.TabIndex = 122
-        Me.cbIncludeTax.Text = "Price Including Tax"
-        Me.cbIncludeTax.UseVisualStyleBackColor = True
-        '
-        'btnPrintPackingSlip
-        '
-        Me.btnPrintPackingSlip.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnPrintPackingSlip.Location = New System.Drawing.Point(994, 601)
-        Me.btnPrintPackingSlip.Name = "btnPrintPackingSlip"
-        Me.btnPrintPackingSlip.Size = New System.Drawing.Size(84, 26)
-        Me.btnPrintPackingSlip.TabIndex = 124
-        Me.btnPrintPackingSlip.Text = "Packing Slip"
-        Me.btnPrintPackingSlip.UseVisualStyleBackColor = True
-        '
         'frmSO
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoScroll = True
         Me.ClientSize = New System.Drawing.Size(1262, 632)
+        Me.Controls.Add(Me.gbDisc)
         Me.Controls.Add(Me.btnPrintPackingSlip)
         Me.Controls.Add(Me.ntbSOPriceIncludeTax)
         Me.Controls.Add(Me.cbIncludeTax)
@@ -1133,11 +1173,8 @@ Partial Class frmSO
         Me.Controls.Add(Me.txtSOStatus)
         Me.Controls.Add(Me.btnAddD)
         Me.Controls.Add(Me.Label25)
-        Me.Controls.Add(Me.Label24)
         Me.Controls.Add(Me.ntbSOTaxPercent)
-        Me.Controls.Add(Me.ntbSODiscAmt)
         Me.Controls.Add(Me.Label23)
-        Me.Controls.Add(Me.Label22)
         Me.Controls.Add(Me.Label21)
         Me.Controls.Add(Me.Label20)
         Me.Controls.Add(Me.Label19)
@@ -1148,7 +1185,6 @@ Partial Class frmSO
         Me.Controls.Add(Me.Label10)
         Me.Controls.Add(Me.txtSOSubtotal)
         Me.Controls.Add(Me.txtSODiscount)
-        Me.Controls.Add(Me.ntbSODiscPercent)
         Me.Controls.Add(Me.ntbPaymentTerms)
         Me.Controls.Add(Me.ntbSOPrice)
         Me.Controls.Add(Me.ntbSOQty)
@@ -1192,6 +1228,8 @@ Partial Class frmSO
         Me.ShowIcon = False
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Sales Order"
+        Me.gbDisc.ResumeLayout(False)
+        Me.gbDisc.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -1245,7 +1283,6 @@ Partial Class frmSO
     Friend WithEvents Label19 As System.Windows.Forms.Label
     Friend WithEvents Label20 As System.Windows.Forms.Label
     Friend WithEvents Label21 As System.Windows.Forms.Label
-    Friend WithEvents Label22 As System.Windows.Forms.Label
     Friend WithEvents Label23 As System.Windows.Forms.Label
     Friend WithEvents ImageList1 As System.Windows.Forms.ImageList
     Friend WithEvents ToolTip1 As System.Windows.Forms.ToolTip
@@ -1298,5 +1335,9 @@ Partial Class frmSO
     Friend WithEvents ntbSOPriceIncludeTax As levate.NumericTextBox
     Friend WithEvents cbIncludeTax As System.Windows.Forms.CheckBox
     Friend WithEvents btnPrintPackingSlip As System.Windows.Forms.Button
+    Friend WithEvents ntbSODiscPercent2 As levate.NumericTextBox
+    Friend WithEvents Label40 As System.Windows.Forms.Label
+    Friend WithEvents Label42 As System.Windows.Forms.Label
+    Friend WithEvents gbDisc As System.Windows.Forms.GroupBox
 
 End Class
