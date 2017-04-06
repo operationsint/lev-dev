@@ -1,1 +1,0 @@
-ALTER TABLE tr_so_dtl ADD stockset int;

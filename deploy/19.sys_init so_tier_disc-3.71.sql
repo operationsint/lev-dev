@@ -1,1 +1,0 @@
-insert into sys_init values ('so_tier_disc','Sales Tier Discount','False')
