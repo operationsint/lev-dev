@@ -107,6 +107,7 @@ Public Class fdlCustomer
                     .CurrRate = FormatNumber(ListView1.SelectedItems.Item(0).SubItems.Item(18).Text)
                     .SOId = 0
                     .SONo = ""
+                    .PaymentTerms = ListView1.SelectedItems.Item(0).SubItems.Item(11).Text
                 End With
             Case "frmSPayment"
                 With frmSPayment

@@ -13,6 +13,7 @@ Public Class frmSDeliveryList
             .Clear()
             .View = View.Details
             .Columns.Add("Sales Delivery No.", 120)
+            .Columns.Add("Sales Order No.", 90)
             .Columns.Add("dDate", "Date", 90)
             .Columns.Add("C Id", 0)
             .Columns.Add("Customer Code", 90)
@@ -27,20 +28,28 @@ Public Class frmSDeliveryList
 
         Dim prm1 As SqlParameter = cmd.Parameters.Add("@sdelivery_id", SqlDbType.Int, 255)
         prm1.Value = 0
+
         Dim prm2 As SqlParameter = cmd.Parameters.Add("@sdelivery_no", SqlDbType.NVarChar, 50)
         prm2.Value = IIf(txtPRNo.Text = "", DBNull.Value, txtPRNo.Text)
+
         Dim prm3 As SqlParameter = cmd.Parameters.Add("@sdelivery_date1", SqlDbType.SmallDateTime)
         prm3.Value = IIf(isShowAll = False, dtpPRDateFrom.Value.Date, DBNull.Value)
+
         Dim prm4 As SqlParameter = cmd.Parameters.Add("@sdelivery_date2", SqlDbType.SmallDateTime)
         prm4.Value = IIf(isShowAll = False, dtpPRDateTo.Value.Date, DBNull.Value)
+
         Dim prm5 As SqlParameter = cmd.Parameters.Add("@c_name", SqlDbType.NVarChar, 50)
         prm5.Value = IIf(txtSName.Text = "", DBNull.Value, txtSName.Text)
+
         Dim prm6 As SqlParameter = cmd.Parameters.Add("@sdelivery_stat", SqlDbType.NVarChar, 50)
         If cmbStatus.SelectedIndex = 0 Or cmbStatus.Text = "" Then
             prm6.Value = DBNull.Value
         Else
             prm6.Value = cmbStatus.Items(cmbStatus.SelectedIndex).ItemData
         End If
+
+        Dim prm7 As SqlParameter = cmd.Parameters.Add("@so_no", SqlDbType.NVarChar, 50)
+        prm7.Value = IIf(txtSONo.Text = "", DBNull.Value, txtSONo.Text)
 
         cn.Open()
 
@@ -49,10 +58,21 @@ Public Class frmSDeliveryList
         Dim lvItem As ListViewItem
         Dim intCurrRow As Integer
 
+        '.Columns.Add("Sales Delivery No.", 120)
+        '.Columns.Add("Sales Order No.", 90)
+        '.Columns.Add("dDate", "Date", 90)
+        '.Columns.Add("C Id", 0)
+        '.Columns.Add("Customer Code", 90)
+        '.Columns.Add("Customer Name", 270)
+        '.Columns.Add("sdelivery_status", 0)
+        '.Columns.Add("Status", 90)
+        '.Columns.Add("Posted Status", 90)
+
         While myReader.Read
             lvItem = New ListViewItem(CStr(myReader.Item(1)))
             lvItem.Tag = CStr(myReader.Item(0)) & "*~~~~~*" & intCurrRow 'ID
             'lvItem.Tag = "v" & CStr(DR.Item(0))
+            lvItem.SubItems.Add(myReader.Item(4))
             lvItem.SubItems.Add(myReader.Item(2))
             lvItem.SubItems.Add(myReader.GetInt32(5))
             lvItem.SubItems.Add(myReader.GetString(6))

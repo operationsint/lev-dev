@@ -40,6 +40,8 @@ Partial Class frmSDeliveryList
         Me.dtpPRDateFrom = New System.Windows.Forms.DateTimePicker()
         Me.dtpPRDateTo = New System.Windows.Forms.DateTimePicker()
         Me.btnClear = New System.Windows.Forms.Button()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.txtSONo = New System.Windows.Forms.TextBox()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -51,10 +53,10 @@ Partial Class frmSDeliveryList
         Me.ListView1.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ListView1.FullRowSelect = True
         Me.ListView1.GridLines = True
-        Me.ListView1.Location = New System.Drawing.Point(12, 150)
+        Me.ListView1.Location = New System.Drawing.Point(11, 213)
         Me.ListView1.MultiSelect = False
         Me.ListView1.Name = "ListView1"
-        Me.ListView1.Size = New System.Drawing.Size(653, 415)
+        Me.ListView1.Size = New System.Drawing.Size(653, 352)
         Me.ListView1.TabIndex = 3
         Me.ListView1.UseCompatibleStateImageBehavior = False
         Me.ListView1.View = System.Windows.Forms.View.List
@@ -62,7 +64,7 @@ Partial Class frmSDeliveryList
         'txtSName
         '
         Me.txtSName.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtSName.Location = New System.Drawing.Point(126, 73)
+        Me.txtSName.Location = New System.Drawing.Point(126, 99)
         Me.txtSName.Name = "txtSName"
         Me.txtSName.Size = New System.Drawing.Size(179, 21)
         Me.txtSName.TabIndex = 6
@@ -110,7 +112,7 @@ Partial Class frmSDeliveryList
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(10, 76)
+        Me.Label4.Location = New System.Drawing.Point(10, 102)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(83, 13)
         Me.Label4.TabIndex = 2
@@ -120,7 +122,7 @@ Partial Class frmSDeliveryList
         '
         Me.btnFilter.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnFilter.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnFilter.Location = New System.Drawing.Point(581, 117)
+        Me.btnFilter.Location = New System.Drawing.Point(580, 181)
         Me.btnFilter.Name = "btnFilter"
         Me.btnFilter.Size = New System.Drawing.Size(84, 26)
         Me.btnFilter.TabIndex = 2
@@ -142,6 +144,8 @@ Partial Class frmSDeliveryList
         '
         Me.GroupBox1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox1.Controls.Add(Me.Label3)
+        Me.GroupBox1.Controls.Add(Me.txtSONo)
         Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Controls.Add(Me.chbDate)
         Me.GroupBox1.Controls.Add(Me.cmbStatus)
@@ -155,7 +159,7 @@ Partial Class frmSDeliveryList
         Me.GroupBox1.Controls.Add(Me.txtPRNo)
         Me.GroupBox1.Location = New System.Drawing.Point(11, 12)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(653, 99)
+        Me.GroupBox1.Size = New System.Drawing.Size(653, 163)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Filter By"
@@ -164,7 +168,7 @@ Partial Class frmSDeliveryList
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(315, 75)
+        Me.Label1.Location = New System.Drawing.Point(10, 129)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(38, 13)
         Me.Label1.TabIndex = 83
@@ -184,7 +188,7 @@ Partial Class frmSDeliveryList
         '
         Me.cmbStatus.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmbStatus.FormattingEnabled = True
-        Me.cmbStatus.Location = New System.Drawing.Point(359, 72)
+        Me.cmbStatus.Location = New System.Drawing.Point(126, 126)
         Me.cmbStatus.Name = "cmbStatus"
         Me.cmbStatus.Size = New System.Drawing.Size(110, 21)
         Me.cmbStatus.TabIndex = 7
@@ -231,12 +235,30 @@ Partial Class frmSDeliveryList
         '
         Me.btnClear.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnClear.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnClear.Location = New System.Drawing.Point(490, 117)
+        Me.btnClear.Location = New System.Drawing.Point(489, 181)
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(84, 26)
         Me.btnClear.TabIndex = 1
         Me.btnClear.Text = "Clear"
         Me.btnClear.UseVisualStyleBackColor = True
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(10, 75)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(83, 13)
+        Me.Label3.TabIndex = 84
+        Me.Label3.Text = "Sales Order No."
+        '
+        'txtSONo
+        '
+        Me.txtSONo.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtSONo.Location = New System.Drawing.Point(126, 72)
+        Me.txtSONo.Name = "txtSONo"
+        Me.txtSONo.Size = New System.Drawing.Size(179, 21)
+        Me.txtSONo.TabIndex = 85
         '
         'frmSDeliveryList
         '
@@ -279,4 +301,6 @@ Partial Class frmSDeliveryList
     Friend WithEvents cmbStatus As System.Windows.Forms.ComboBox
     Friend WithEvents chbDate As System.Windows.Forms.CheckBox
     Friend WithEvents btnClear As System.Windows.Forms.Button
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents txtSONo As System.Windows.Forms.TextBox
 End Class

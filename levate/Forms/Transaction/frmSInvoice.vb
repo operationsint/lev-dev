@@ -410,6 +410,25 @@ Public Class frmSInvoice
         End Set
     End Property
 
+    '8. Payment term tidak otomastis ngelink dari SO/Customer Card ke Sales Invoice
+    Public Property PaymentTerms() As String
+        Get
+            Return ntbSInvoiceTerms.Text()
+        End Get
+        Set(ByVal Value As String)
+            ntbSInvoiceTerms.Text = Value
+        End Set
+    End Property
+
+    Public Property SInvoiceDueDate() As Date
+        Get
+            Return dtpSInvoiceDate.Value()
+        End Get
+        Set(ByVal Value As Date)
+            dtpSInvoiceDate.Value = Value
+        End Set
+    End Property
+
     Sub clear_obj()
         m_SInvoiceId = 0
         m_CId = 0
@@ -1337,14 +1356,6 @@ Public Class frmSInvoice
         dtpSInvoiceDueDate.Value = DateAdd(DateInterval.Day, CInt(ntbSInvoiceTerms.Text), dtpSInvoiceDate.Value)
     End Sub
 
-    Private Sub ntbSInvoiceTerms_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ntbSInvoiceTerms.TextChanged
-
-    End Sub
-
-    Private Sub ntbSInvoicePrice_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ntbSInvoicePrice.TextChanged
-
-    End Sub
-
     Private Sub btnPrintGroup_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnPrintGroup.Click
         Dim strConnection As String = My.Settings.ConnStr
         Dim Connection As New SqlConnection(strConnection)
@@ -1422,5 +1433,9 @@ Public Class frmSInvoice
         End If
     End Sub
 
-
+    '8. Payment term tidak otomatis ngelink dari SO/Customer Card ke Sales Invoice
+    Private Sub ntbSInvoiceTerms_TextChanged(sender As Object, e As System.EventArgs) Handles ntbSInvoiceTerms.TextChanged
+        If ntbSInvoiceTerms.Text = "" Then ntbSInvoiceTerms.Text = "0" : dtpSInvoiceDueDate.Value = dtpSInvoiceDate.Value
+        dtpSInvoiceDueDate.Value = DateAdd(DateInterval.Day, CInt(ntbSInvoiceTerms.Text), dtpSInvoiceDate.Value)
+    End Sub
 End Class
