@@ -89,6 +89,8 @@ Partial Class frmMAIN
         Me.WorkOrderProductionReportToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.WorkOrderControlReportToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.WorkOrderCostDetailReport = New System.Windows.Forms.ToolStripMenuItem()
+        Me.WorkOrderProcessDetailReport = New System.Windows.Forms.ToolStripMenuItem()
+        Me.WorkOrderProcessLabourReport = New System.Windows.Forms.ToolStripMenuItem()
         Me.SalesToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.CustomerMasterToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SalesCodeStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -199,8 +201,7 @@ Partial Class frmMAIN
         Me.StatusStrip = New System.Windows.Forms.StatusStrip()
         Me.ToolStripStatusLabel = New System.Windows.Forms.ToolStripStatusLabel()
         Me.ToolTip = New System.Windows.Forms.ToolTip(Me.components)
-        Me.WorkOrderProcessDetailReport = New System.Windows.Forms.ToolStripMenuItem()
-        Me.WorkOrderProcessLabourReport = New System.Windows.Forms.ToolStripMenuItem()
+        Me.CustomerCategoryCardToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip.SuspendLayout()
         Me.ToolStrip.SuspendLayout()
         Me.StatusStrip.SuspendLayout()
@@ -596,9 +597,21 @@ Partial Class frmMAIN
         Me.WorkOrderCostDetailReport.Size = New System.Drawing.Size(256, 22)
         Me.WorkOrderCostDetailReport.Text = "Work Order Cost Detail Report"
         '
+        'WorkOrderProcessDetailReport
+        '
+        Me.WorkOrderProcessDetailReport.Name = "WorkOrderProcessDetailReport"
+        Me.WorkOrderProcessDetailReport.Size = New System.Drawing.Size(256, 22)
+        Me.WorkOrderProcessDetailReport.Text = "Work Order Process Detail Report"
+        '
+        'WorkOrderProcessLabourReport
+        '
+        Me.WorkOrderProcessLabourReport.Name = "WorkOrderProcessLabourReport"
+        Me.WorkOrderProcessLabourReport.Size = New System.Drawing.Size(256, 22)
+        Me.WorkOrderProcessLabourReport.Text = "Work Order Process Labour Report"
+        '
         'SalesToolStripMenuItem1
         '
-        Me.SalesToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CustomerMasterToolStripMenuItem, Me.SalesCodeStripMenuItem, Me.StockPriceToolStripMenuItem, Me.ToolStripSeparator7, Me.SalesOrderToolStripMenuItem1, Me.SalesDeliveryToolStripMenuItem, Me.BC40ToolStripMenuItem, Me.SalesInvoiceToolStripMenuItem, Me.FakturPajakToolStripMenuItem, Me.SalesReturnToolStripMenuItem, Me.SalesPaymentToolStripMenuItem, Me.ToolStripSeparator9, Me.ReportsToolStripMenuItem2})
+        Me.SalesToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CustomerMasterToolStripMenuItem, Me.CustomerCategoryCardToolStripMenuItem, Me.SalesCodeStripMenuItem, Me.StockPriceToolStripMenuItem, Me.ToolStripSeparator7, Me.SalesOrderToolStripMenuItem1, Me.SalesDeliveryToolStripMenuItem, Me.BC40ToolStripMenuItem, Me.SalesInvoiceToolStripMenuItem, Me.FakturPajakToolStripMenuItem, Me.SalesReturnToolStripMenuItem, Me.SalesPaymentToolStripMenuItem, Me.ToolStripSeparator9, Me.ReportsToolStripMenuItem2})
         Me.SalesToolStripMenuItem1.Name = "SalesToolStripMenuItem1"
         Me.SalesToolStripMenuItem1.Size = New System.Drawing.Size(45, 20)
         Me.SalesToolStripMenuItem1.Text = "Sales"
@@ -606,78 +619,78 @@ Partial Class frmMAIN
         'CustomerMasterToolStripMenuItem
         '
         Me.CustomerMasterToolStripMenuItem.Name = "CustomerMasterToolStripMenuItem"
-        Me.CustomerMasterToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.CustomerMasterToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.CustomerMasterToolStripMenuItem.Text = "Customer Card"
         '
         'SalesCodeStripMenuItem
         '
         Me.SalesCodeStripMenuItem.Name = "SalesCodeStripMenuItem"
-        Me.SalesCodeStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.SalesCodeStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.SalesCodeStripMenuItem.Text = "Sales Code"
         '
         'StockPriceToolStripMenuItem
         '
         Me.StockPriceToolStripMenuItem.Name = "StockPriceToolStripMenuItem"
-        Me.StockPriceToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.StockPriceToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.StockPriceToolStripMenuItem.Text = "Stock Sales Price"
         '
         'ToolStripSeparator7
         '
         Me.ToolStripSeparator7.Name = "ToolStripSeparator7"
-        Me.ToolStripSeparator7.Size = New System.Drawing.Size(158, 6)
+        Me.ToolStripSeparator7.Size = New System.Drawing.Size(202, 6)
         '
         'SalesOrderToolStripMenuItem1
         '
         Me.SalesOrderToolStripMenuItem1.Name = "SalesOrderToolStripMenuItem1"
-        Me.SalesOrderToolStripMenuItem1.Size = New System.Drawing.Size(161, 22)
+        Me.SalesOrderToolStripMenuItem1.Size = New System.Drawing.Size(205, 22)
         Me.SalesOrderToolStripMenuItem1.Text = "Sales Order"
         '
         'SalesDeliveryToolStripMenuItem
         '
         Me.SalesDeliveryToolStripMenuItem.Name = "SalesDeliveryToolStripMenuItem"
-        Me.SalesDeliveryToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.SalesDeliveryToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.SalesDeliveryToolStripMenuItem.Text = "Sales Delivery"
         '
         'BC40ToolStripMenuItem
         '
         Me.BC40ToolStripMenuItem.Name = "BC40ToolStripMenuItem"
-        Me.BC40ToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.BC40ToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.BC40ToolStripMenuItem.Text = "BC 4.0"
         '
         'SalesInvoiceToolStripMenuItem
         '
         Me.SalesInvoiceToolStripMenuItem.Name = "SalesInvoiceToolStripMenuItem"
-        Me.SalesInvoiceToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.SalesInvoiceToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.SalesInvoiceToolStripMenuItem.Text = "Sales Invoice"
         '
         'FakturPajakToolStripMenuItem
         '
         Me.FakturPajakToolStripMenuItem.Name = "FakturPajakToolStripMenuItem"
-        Me.FakturPajakToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.FakturPajakToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.FakturPajakToolStripMenuItem.Text = "Faktur Pajak"
         '
         'SalesReturnToolStripMenuItem
         '
         Me.SalesReturnToolStripMenuItem.Name = "SalesReturnToolStripMenuItem"
-        Me.SalesReturnToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.SalesReturnToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.SalesReturnToolStripMenuItem.Text = "Sales Return"
         '
         'SalesPaymentToolStripMenuItem
         '
         Me.SalesPaymentToolStripMenuItem.Name = "SalesPaymentToolStripMenuItem"
-        Me.SalesPaymentToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
+        Me.SalesPaymentToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
         Me.SalesPaymentToolStripMenuItem.Text = "Sales Receipt"
         '
         'ToolStripSeparator9
         '
         Me.ToolStripSeparator9.Name = "ToolStripSeparator9"
-        Me.ToolStripSeparator9.Size = New System.Drawing.Size(158, 6)
+        Me.ToolStripSeparator9.Size = New System.Drawing.Size(202, 6)
         '
         'ReportsToolStripMenuItem2
         '
         Me.ReportsToolStripMenuItem2.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CustomerListReportToolStripMenuItem, Me.ToolStripMenuCustomerControl, Me.SalesPriceListToolStripMenuItem, Me.SalesReportToolStripMenuItem, Me.SalesDeliveryReportToolStripMenuItem, Me.SalesInvoiceReportToolStripMenuItem, Me.SalesInvoiceSummaryReportToolStripMenuItem, Me.SalesReturnReportToolStripMenuItem, Me.SalesReceiptReportToolStripMenuItem, Me.SalesTransactionReportToolStripMenuItem, Me.SalesMonthlyStatementReportToolStripMenuItem, Me.SalesARAgingReportToolStripMenuItem, Me.COGSReportToolStripMenuItem, Me.SalesStockSalesReport, Me.SalesCustomerBalanceReport})
         Me.ReportsToolStripMenuItem2.Name = "ReportsToolStripMenuItem2"
-        Me.ReportsToolStripMenuItem2.Size = New System.Drawing.Size(161, 22)
+        Me.ReportsToolStripMenuItem2.Size = New System.Drawing.Size(205, 22)
         Me.ReportsToolStripMenuItem2.Text = "Reports"
         '
         'CustomerListReportToolStripMenuItem
@@ -1273,17 +1286,11 @@ Partial Class frmMAIN
         Me.ToolStripStatusLabel.Size = New System.Drawing.Size(30, 17)
         Me.ToolStripStatusLabel.Text = "User"
         '
-        'WorkOrderProcessDetailReport
+        'CustomerCategoryCardToolStripMenuItem
         '
-        Me.WorkOrderProcessDetailReport.Name = "WorkOrderProcessDetailReport"
-        Me.WorkOrderProcessDetailReport.Size = New System.Drawing.Size(256, 22)
-        Me.WorkOrderProcessDetailReport.Text = "Work Order Process Detail Report"
-        '
-        'WorkOrderProcessLabourReport
-        '
-        Me.WorkOrderProcessLabourReport.Name = "WorkOrderProcessLabourReport"
-        Me.WorkOrderProcessLabourReport.Size = New System.Drawing.Size(256, 22)
-        Me.WorkOrderProcessLabourReport.Text = "Work Order Process Labour Report"
+        Me.CustomerCategoryCardToolStripMenuItem.Name = "CustomerCategoryCardToolStripMenuItem"
+        Me.CustomerCategoryCardToolStripMenuItem.Size = New System.Drawing.Size(205, 22)
+        Me.CustomerCategoryCardToolStripMenuItem.Text = "Customer Category Card"
         '
         'frmMAIN
         '
@@ -1488,4 +1495,5 @@ Partial Class frmMAIN
     Friend WithEvents BankAdjustmentToolStripMenuItem1 As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents WorkOrderProcessDetailReport As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents WorkOrderProcessLabourReport As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents CustomerCategoryCardToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 End Class

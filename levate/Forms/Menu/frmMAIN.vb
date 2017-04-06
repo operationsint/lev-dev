@@ -1580,4 +1580,12 @@ Public Class frmMAIN
             .BringToFront()
         End With
     End Sub
+
+    Private Sub CustomerCategoryCardToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CustomerCategoryCardToolStripMenuItem.Click
+        If Not GetPermission("frmCustomerCat") = False Then
+            frmCustomerCat.MdiParent = Me
+            frmCustomerCat.Show()
+            frmCustomerCat.BringToFront()
+        End If
+    End Sub
 End Class
