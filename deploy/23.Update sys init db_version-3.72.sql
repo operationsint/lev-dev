@@ -1,1 +1,0 @@
-update sys_init set sys_init_val = 'App 3.72-2017.04.06' where sys_init_id = 'db_version'
